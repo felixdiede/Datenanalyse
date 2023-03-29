@@ -1,0 +1,3 @@
+Folgende Fehler wurden gefunden:
+15.06.2021 Abschnitt 5 (Zweistichprobentests)
+Folie 5-7: Die Formel für die Freiheitsgrade beim Welsh-Test ist nicht korrekt. Der Zähler des Bruches muss quadriert werden.

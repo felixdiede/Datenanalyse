@@ -1,0 +1,3997 @@
+"Province_State" "Country_Region" "Confirmed" "Deaths"
+"Afghanistan" "Afghanistan" 178257 7676
+"Albania" "Albania" 274272 3494
+"Algeria" "Algeria" 265730 6874
+"Andorra" "Andorra" 40328 153
+"Angola" "Angola" 99194 1900
+"Antarctica" "Antarctica" 11 0
+"Antigua and Barbuda" "Antigua and Barbuda" 7523 135
+"Argentina" "Argentina" 9056203 128268
+"Armenia" "Armenia" 422691 8621
+"Australian Capital Territory" "Australia" 89510 46
+"New South Wales" "Australia" 2061416 2551
+"Northern Territory" "Australia" 55612 36
+"Queensland" "Australia" 880572 791
+"South Australia" "Australia" 330140 289
+"Tasmania" "Australia" 114149 39
+"Victoria" "Australia" 1410828 2809
+"Western Australia" "Australia" 265423 87
+"Austria" "Austria" 4004069 16286
+"Azerbaijan" "Azerbaijan" 792289 9703
+"Bahamas" "Bahamas" 33366 789
+"Bahrain" "Bahrain" 561065 1473
+"Bangladesh" "Bangladesh" 1952131 29124
+"Barbados" "Barbados" 62968 379
+"Belarus" "Belarus" 970750 6882
+"Antwerp" "Belgium" 627697 0
+"Brussels" "Belgium" 435242 0
+"East Flanders" "Belgium" 521549 0
+"Flemish Brabant" "Belgium" 376373 0
+"Hainaut" "Belgium" 437843 0
+"Liege" "Belgium" 362660 0
+"Limburg" "Belgium" 292746 0
+"Luxembourg" "Belgium" 102583 0
+"Namur" "Belgium" 170416 0
+"Walloon Brabant" "Belgium" 144339 0
+"West Flanders" "Belgium" 416101 0
+"Belize" "Belize" 57318 672
+"Benin" "Benin" 26952 163
+"Bhutan" "Bhutan" 45056 14
+"Bolivia" "Bolivia" 903584 21899
+"Bosnia and Herzegovina" "Bosnia and Herzegovina" 376264 15742
+"Botswana" "Botswana" 305859 2688
+"Acre" "Brazil" 124103 1996
+"Alagoas" "Brazil" 297095 6907
+"Amapa" "Brazil" 160363 2128
+"Amazonas" "Brazil" 581729 14162
+"Bahia" "Brazil" 1537340 29789
+"Ceara" "Brazil" 1242889 26825
+"Distrito Federal" "Brazil" 693775 11619
+"Espirito Santo" "Brazil" 1042925 14362
+"Goias" "Brazil" 1308557 26356
+"Maranhao" "Brazil" 428590 10878
+"Mato Grosso" "Brazil" 724653 14854
+"Mato Grosso do Sul" "Brazil" 526217 10519
+"Minas Gerais" "Brazil" 3345726 61046
+"Para" "Brazil" 759465 18163
+"Paraiba" "Brazil" 599628 10197
+"Parana" "Brazil" 2428625 43004
+"Pernambuco" "Brazil" 909660 21500
+"Piaui" "Brazil" 367916 7733
+"Rio Grande do Norte" "Brazil" 500970 8157
+"Rio Grande do Sul" "Brazil" 2300259 39172
+"Rio de Janeiro" "Brazil" 2114523 73111
+"Rondonia" "Brazil" 397184 7193
+"Roraima" "Brazil" 155325 2146
+"Santa Catarina" "Brazil" 1687549 21709
+"Sao Paulo" "Brazil" 5318694 167730
+"Sergipe" "Brazil" 326803 6337
+"Tocantins" "Brazil" 303723 4148
+"Brunei" "Brunei" 139061 216
+"Bulgaria" "Bulgaria" 1147165 36740
+"Burkina Faso" "Burkina Faso" 20865 383
+"Burma" "Burma" 612406 19434
+"Burundi" "Burundi" 38698 38
+"Cabo Verde" "Cabo Verde" 55974 401
+"Cambodia" "Cambodia" 135980 3055
+"Cameroon" "Cameroon" 119780 1927
+"Alberta" "Canada" 546247 4104
+"British Columbia" "Canada" 357974 3004
+"Diamond Princess" "Canada" 0 1
+"Grand Princess" "Canada" 13 0
+"Manitoba" "Canada" 136573 1751
+"New Brunswick" "Canada" 48197 349
+"Newfoundland and Labrador" "Canada" 40336 122
+"Northwest Territories" "Canada" 11552 21
+"Nova Scotia" "Canada" 65991 263
+"Nunavut" "Canada" 3531 7
+"Ontario" "Canada" 1176866 12498
+"Prince Edward Island" "Canada" 28375 19
+"Quebec" "Canada" 992646 14512
+"Repatriated Travellers" "Canada" 13 0
+"Saskatchewan" "Canada" 133256 1253
+"Yukon" "Canada" 3940 24
+"Central African Republic" "Central African Republic" 14649 113
+"Chad" "Chad" 7378 192
+"Antofagasta" "Chile" 121981 1747
+"Araucania" "Chile" 214314 2537
+"Arica y Parinacota" "Chile" 55163 807
+"Atacama" "Chile" 65317 577
+"Aysen" "Chile" 24756 178
+"Biobio" "Chile" 350137 4227
+"Coquimbo" "Chile" 125102 1656
+"Los Lagos" "Chile" 193240 2293
+"Los Rios" "Chile" 105433 1205
+"Magallanes" "Chile" 50917 701
+"Maule" "Chile" 237136 2866
+"Metropolitana" "Chile" 1343314 28114
+"Nuble" "Chile" 99183 1083
+"OHiggins" "Chile" 148485 2488
+"Tarapaca" "Chile" 79251 1084
+"Valparaiso" "Chile" 302106 5529
+"Anhui" "China" 1056 6
+"Beijing" "China" 1826 9
+"Chongqing" "China" 693 6
+"Fujian" "China" 2929 1
+"Gansu" "China" 681 2
+"Guangdong" "China" 6749 8
+"Guangxi" "China" 1532 2
+"Guizhou" "China" 178 2
+"Hainan" "China" 280 6
+"Hebei" "China" 1982 7
+"Heilongjiang" "China" 2508 13
+"Henan" "China" 2846 22
+"Hong Kong" "China" 1193023 8886
+"Hubei" "China" 68394 4512
+"Hunan" "China" 1337 4
+"Inner Mongolia" "China" 1688 1
+"Jiangsu" "China" 2109 0
+"Jiangxi" "China" 1068 1
+"Jilin" "China" 38301 5
+"Liaoning" "China" 1607 2
+"Macau" "China" 82 0
+"Ningxia" "China" 122 0
+"Qinghai" "China" 43 0
+"Shaanxi" "China" 3256 3
+"Shandong" "China" 2654 7
+"Shanghai" "China" 14473 7
+"Shanxi" "China" 352 0
+"Sichuan" "China" 1966 3
+"Tianjin" "China" 1799 3
+"Tibet" "China" 1 0
+"Xinjiang" "China" 999 3
+"Yunnan" "China" 2083 2
+"Zhejiang" "China" 2850 1
+"Amazonas" "Colombia" 7568 265
+"Antioquia" "Colombia" 918159 18247
+"Arauca" "Colombia" 16312 533
+"Atlantico" "Colombia" 402226 10128
+"Bolivar" "Colombia" 197232 3241
+"Boyaca" "Colombia" 125193 2782
+"Caldas" "Colombia" 116923 2525
+"Capital District" "Colombia" 1767566 29355
+"Caqueta" "Colombia" 24982 1025
+"Casanare" "Colombia" 41673 1002
+"Cauca" "Colombia" 72252 1792
+"Cesar" "Colombia" 106474 2671
+"Choco" "Colombia" 18586 429
+"Cordoba" "Colombia" 119034 3931
+"Cundinamarca" "Colombia" 318136 7282
+"Guainia" "Colombia" 2765 37
+"Guaviare" "Colombia" 5588 105
+"Huila" "Colombia" 100322 3514
+"La Guajira" "Colombia" 56328 1528
+"Magdalena" "Colombia" 114846 3621
+"Meta" "Colombia" 104983 2540
+"Narino" "Colombia" 104396 3315
+"Norte de Santander" "Colombia" 119759 5101
+"Putumayo" "Colombia" 20491 775
+"Quindio" "Colombia" 70801 2054
+"Risaralda" "Colombia" 106343 2469
+"San Andres y Providencia" "Colombia" 10189 155
+"Santander" "Colombia" 283426 8168
+"Sucre" "Colombia" 65667 1714
+"Tolima" "Colombia" 124447 4006
+"Valle del Cauca" "Colombia" 540664 15037
+"Vaupes" "Colombia" 1889 21
+"Vichada" "Colombia" 3399 61
+"Comoros" "Comoros" 8100 160
+"Congo (Kinshasa)" "Congo" 86748 1337
+"Costa Rica" "Costa Rica" 844892 8357
+"Cote d'Ivoire" "Cote d'Ivoire" 81834 797
+"Croatia" "Croatia" 1109847 15702
+"Cuba" "Cuba" 1097675 8519
+"Cyprus" "Cyprus" 461531 987
+"Czechia" "Czechia" 3872522 39933
+"Faroe Islands" "Denmark" 34658 28
+"Greenland" "Denmark" 11971 21
+"Denmark" "Denmark" 3089642 5932
+"Diamond Princess" "Diamond Princess" 712 13
+"Djibouti" "Djibouti" 15595 189
+"Dominica" "Dominica" 11981 63
+"Dominican Republic" "Dominican Republic" 578626 4375
+"Ecuador" "Ecuador" 865263 35508
+"Egypt" "Egypt" 511977 24522
+"El Salvador" "El Salvador" 162089 4124
+"Equatorial Guinea" "Equatorial Guinea" 15904 183
+"Eritrea" "Eritrea" 9732 103
+"Estonia" "Estonia" 565213 2498
+"Eswatini" "Eswatini" 70014 1395
+"Ethiopia" "Ethiopia" 470108 7509
+"Fiji" "Fiji" 64499 834
+"Finland" "Finland" 920692 3334
+"French Guiana" "France" 79529 394
+"French Polynesia" "France" 72570 648
+"Guadeloupe" "France" 142573 940
+"Martinique" "France" 148048 918
+"Mayotte" "France" 36958 187
+"New Caledonia" "France" 60498 312
+"Reunion" "France" 347941 720
+"Saint Barthelemy" "France" 4313 6
+"Saint Pierre and Miquelon" "France" 2509 1
+"St Martin" "France" 10176 63
+"Wallis and Futuna" "France" 454 7
+"France" "France" 26447656 140466
+"Gabon" "Gabon" 47588 303
+"Gambia" "Gambia" 11990 365
+"Georgia" "Georgia" 1651969 16779
+"Baden-Wurttemberg" "Germany" 3269042 15455
+"Bayern" "Germany" 4351758 23062
+"Berlin" "Germany" 955168 4421
+"Brandenburg" "Germany" 725150 5480
+"Bremen" "Germany" 169613 731
+"Hamburg" "Germany" 489172 2464
+"Hessen" "Germany" 1575359 9746
+"Mecklenburg-Vorpommern" "Germany" 437660 2089
+"Niedersachsen" "Germany" 1919410 8387
+"Nordrhein-Westfalen" "Germany" 4586994 24161
+"Rheinland-Pfalz" "Germany" 982220 5379
+"Saarland" "Germany" 276965 1585
+"Sachsen" "Germany" 1399143 14990
+"Sachsen-Anhalt" "Germany" 649514 5125
+"Schleswig-Holstein" "Germany" 572882 2351
+"Thuringen" "Germany" 657029 6952
+"Ghana" "Ghana" 161071 1445
+"Greece" "Greece" 3195887 28274
+"Grenada" "Grenada" 14064 219
+"Guatemala" "Guatemala" 836234 17400
+"Guinea" "Guinea" 36459 440
+"Guinea-Bissau" "Guinea-Bissau" 8175 170
+"Guyana" "Guyana" 63340 1226
+"Haiti" "Haiti" 30586 835
+"Holy See" "Holy See" 29 0
+"Honduras" "Honduras" 421268 10888
+"Hungary" "Hungary" 1874206 45812
+"Iceland" "Iceland" 183974 110
+"Andaman and Nicobar Islands" "India" 10034 129
+"Andhra Pradesh" "India" 2319614 14730
+"Arunachal Pradesh" "India" 64490 296
+"Assam" "India" 724199 6639
+"Bihar" "India" 830494 12256
+"Chandigarh" "India" 91945 1165
+"Chhattisgarh" "India" 1152208 14034
+"Dadra and Nagar Haveli and Daman and Diu" "India" 11441 4
+"Delhi" "India" 1866380 26157
+"Goa" "India" 245346 3832
+"Gujarat" "India" 1224082 10942
+"Haryana" "India" 985931 10617
+"Himachal Pradesh" "India" 284639 4134
+"Jammu and Kashmir" "India" 453889 4750
+"Jharkhand" "India" 435165 5315
+"Karnataka" "India" 3946036 40057
+"Kerala" "India" 6536123 68383
+"Ladakh" "India" 28236 228
+"Lakshadweep" "India" 11402 52
+"Madhya Pradesh" "India" 1041209 10735
+"Maharashtra" "India" 7875211 147816
+"Manipur" "India" 137162 2120
+"Meghalaya" "India" 93784 1593
+"Mizoram" "India" 225732 689
+"Nagaland" "India" 35480 759
+"Odisha" "India" 1287854 9121
+"Puducherry" "India" 165774 1962
+"Punjab" "India" 759210 17742
+"Rajasthan" "India" 1283111 9552
+"Sikkim" "India" 39144 452
+"Tamil Nadu" "India" 3453112 38025
+"Telangana" "India" 791522 4111
+"Tripura" "India" 100878 922
+"Uttar Pradesh" "India" 2071099 23499
+"Uttarakhand" "India" 437297 7692
+"West Bengal" "India" 2017695 21200
+"Indonesia" "Indonesia" 6035358 155717
+"Iran" "Iran" 7197505 140678
+"Iraq" "Iraq" 2322303 25186
+"Ireland" "Ireland" 1494814 6903
+"Israel" "Israel" 4013193 10601
+"Abruzzo" "Italy" 337992 3139
+"Basilicata" "Italy" 115294 851
+"Calabria" "Italy" 323743 2405
+"Campania" "Italy" 1482619 10126
+"Emilia-Romagna" "Italy" 1332550 16398
+"Friuli Venezia Giulia" "Italy" 346554 4951
+"Lazio" "Italy" 1373519 10887
+"Liguria" "Italy" 401981 5225
+"Lombardia" "Italy" 2632174 39500
+"Marche" "Italy" 413971 3770
+"Molise" "Italy" 53128 601
+"P.A. Bolzano" "Italy" 203853 1456
+"P.A. Trento" "Italy" 154270 1545
+"Piemonte" "Italy" 1085953 13250
+"Puglia" "Italy" 983378 8100
+"Sardegna" "Italy" 249942 2280
+"Sicilia" "Italy" 1032721 10282
+"Toscana" "Italy" 1033846 9640
+"Umbria" "Italy" 248698 1825
+"Valle d'Aosta" "Italy" 33505 527
+"Veneto" "Italy" 1565118 14274
+"Jamaica" "Jamaica" 129093 2917
+"Aichi" "Japan" 444672 1992
+"Akita" "Japan" 19808 49
+"Aomori" "Japan" 41859 91
+"Chiba" "Japan" 388626 1687
+"Ehime" "Japan" 28301 133
+"Fukui" "Japan" 23597 45
+"Fukuoka" "Japan" 329876 1160
+"Fukushima" "Japan" 42434 200
+"Gifu" "Japan" 74625 320
+"Gunma" "Japan" 76088 298
+"Hiroshima" "Japan" 109265 454
+"Hokkaido" "Japan" 246854 1954
+"Hyogo" "Japan" 355634 2143
+"Ibaraki" "Japan" 128544 396
+"Ishikawa" "Japan" 37835 186
+"Iwate" "Japan" 21787 80
+"Kagawa" "Japan" 33242 114
+"Kagoshima" "Japan" 51821 171
+"Kanagawa" "Japan" 647762 2080
+"Kochi" "Japan" 18733 101
+"Kumamoto" "Japan" 71657 276
+"Kyoto" "Japan" 165774 685
+"Mie" "Japan" 62478 275
+"Miyagi" "Japan" 64795 178
+"Miyazaki" "Japan" 31363 120
+"Nagano" "Japan" 51369 169
+"Nagasaki" "Japan" 38398 117
+"Nara" "Japan" 77821 354
+"Niigata" "Japan" 50743 91
+"Oita" "Japan" 37179 146
+"Okayama" "Japan" 69228 226
+"Okinawa" "Japan" 136279 441
+"Osaka" "Japan" 839318 4826
+"Port Quarantine" "Japan" 4463 4
+"Saga" "Japan" 36652 92
+"Saitama" "Japan" 468970 1414
+"Shiga" "Japan" 74164 200
+"Shimane" "Japan" 10944 11
+"Shizuoka" "Japan" 133223 388
+"Tochigi" "Japan" 70034 256
+"Tokushima" "Japan" 17288 79
+"Tokyo" "Japan" 1338408 4239
+"Tottori" "Japan" 10292 14
+"Toyama" "Japan" 29877 88
+"Wakayama" "Japan" 31467 111
+"Yamagata" "Japan" 19668 81
+"Yamaguchi" "Japan" 32864 170
+"Yamanashi" "Japan" 26086 64
+"Jordan" "Jordan" 1694957 14055
+"Kazakhstan" "Kazakhstan" 1394093 19013
+"Kenya" "Kenya" 323583 5649
+"Kiribati" "Kiribati" 3069 13
+"Korea, South" "South Korea" 15830644 20034
+"Kosovo" "Kosovo" 227766 3138
+"Kuwait" "Kuwait" 630641 2555
+"Kyrgyzstan" "Kyrgyzstan" 200970 2991
+"Laos" "Laos" 197417 702
+"Latvia" "Latvia" 809917 5687
+"Lebanon" "Lebanon" 1094911 10350
+"Lesotho" "Lesotho" 32968 697
+"Liberia" "Liberia" 7402 294
+"Libya" "Libya" 501834 6429
+"Liechtenstein" "Liechtenstein" 16834 84
+"Lithuania" "Lithuania" 1043492 8982
+"Luxembourg" "Luxembourg" 226339 1051
+"MS Zaandam" "MS Zaandam" 9 2
+"Madagascar" "Madagascar" 64089 1390
+"Malawi" "Malawi" 85707 2628
+"Johor" "Malaysia" 378723 4480
+"Kedah" "Malaysia" 296274 2598
+"Kelantan" "Malaysia" 246600 1418
+"Melaka" "Malaysia" 119349 1103
+"Negeri Sembilan" "Malaysia" 196041 1467
+"Pahang" "Malaysia" 169305 961
+"Perak" "Malaysia" 195656 1884
+"Perlis" "Malaysia" 17088 181
+"Pulau Pinang" "Malaysia" 273381 1964
+"Sabah" "Malaysia" 369399 3115
+"Sarawak" "Malaysia" 302880 1720
+"Selangor" "Malaysia" 1275660 10588
+"Terengganu" "Malaysia" 124161 856
+"W.P. Kuala Lumpur" "Malaysia" 338306 2811
+"W.P. Labuan" "Malaysia" 21193 155
+"W.P. Putrajaya" "Malaysia" 18543 40
+"Maldives" "Maldives" 178320 298
+"Mali" "Mali" 30589 729
+"Malta" "Malta" 87033 667
+"Marshall Islands" "Marshall Islands" 7 0
+"Mauritania" "Mauritania" 58679 982
+"Mauritius" "Mauritius" 214860 985
+"Aguascalientes" "Mexico" 65405 3496
+"Baja California" "Mexico" 133756 12224
+"Baja California Sur" "Mexico" 103490 2682
+"Campeche" "Mexico" 34008 2240
+"Chiapas" "Mexico" 38344 2409
+"Chihuahua" "Mexico" 131223 9946
+"Ciudad de Mexico" "Mexico" 1392296 42722
+"Coahuila" "Mexico" 145410 8777
+"Colima" "Mexico" 54629 2194
+"Durango" "Mexico" 68161 3599
+"Guanajuato" "Mexico" 281869 14873
+"Guerrero" "Mexico" 98351 6754
+"Hidalgo" "Mexico" 93101 8396
+"Jalisco" "Mexico" 244928 19561
+"Mexico" "Mexico" 570755 47159
+"Michoacan" "Mexico" 94023 8820
+"Morelos" "Mexico" 69983 5267
+"Nayarit" "Mexico" 58071 3195
+"Nuevo Leon" "Mexico" 319108 14979
+"Oaxaca" "Mexico" 119483 6150
+"Puebla" "Mexico" 169256 16439
+"Queretaro" "Mexico" 141609 6195
+"Quintana Roo" "Mexico" 91655 4381
+"San Luis Potosi" "Mexico" 185739 7471
+"Sinaloa" "Mexico" 121689 9656
+"Sonora" "Mexico" 165387 10096
+"Tabasco" "Mexico" 189698 6040
+"Tamaulipas" "Mexico" 143963 7978
+"Tlaxcala" "Mexico" 43745 3073
+"Veracruz" "Mexico" 178209 16388
+"Yucatan" "Mexico" 108815 6798
+"Zacatecas" "Mexico" 67703 3847
+"Micronesia" "Micronesia" 1 0
+"Moldova" "Moldova" 515649 11471
+"Monaco" "Monaco" 11261 56
+"Mongolia" "Mongolia" 920004 2177
+"Montenegro" "Montenegro" 233834 2708
+"Morocco" "Morocco" 1164135 16061
+"Mozambique" "Mozambique" 225301 2200
+"Namibia" "Namibia" 157903 4021
+"Nepal" "Nepal" 978616 11951
+"Aruba" "Netherlands" 34189 212
+"Bonaire, Sint Eustatius and Saba" "Netherlands" 9341 34
+"Curacao" "Netherlands" 41153 270
+"Drenthe" "Netherlands" 200478 447
+"Flevoland" "Netherlands" 181850 331
+"Friesland" "Netherlands" 275593 614
+"Gelderland" "Netherlands" 976708 2779
+"Groningen" "Netherlands" 245885 349
+"Limburg" "Netherlands" 525607 2152
+"Noord-Brabant" "Netherlands" 1228201 3683
+"Noord-Holland" "Netherlands" 1307276 3339
+"Overijssel" "Netherlands" 560914 1404
+"Sint Maarten" "Netherlands" 9888 86
+"Utrecht" "Netherlands" 657127 1527
+"Zeeland" "Netherlands" 166645 385
+"Zuid-Holland" "Netherlands" 1675513 5106
+"Cook Islands" "New Zealand" 3584 0
+"New Zealand" "New Zealand" 795606 497
+"Nicaragua" "Nicaragua" 18491 231
+"Niger" "Niger" 8846 308
+"Nigeria" "Nigeria" 255663 3142
+"North Macedonia" "North Macedonia" 307967 9256
+"Norway" "Norway" 1417631 2667
+"Oman" "Oman" 388741 4256
+"Azad Jammu and Kashmir" "Pakistan" 43301 792
+"Balochistan" "Pakistan" 35480 378
+"Gilgit-Baltistan" "Pakistan" 11720 191
+"Islamabad" "Pakistan" 135139 1023
+"Khyber Pakhtunkhwa" "Pakistan" 219296 6322
+"Punjab" "Pakistan" 505486 13559
+"Sindh" "Pakistan" 576407 8097
+"Palau" "Palau" 4122 6
+"Panama" "Panama" 767067 8177
+"Papua New Guinea" "Papua New Guinea" 43615 649
+"Paraguay" "Paraguay" 648446 18734
+"Amazonas" "Peru" 44075 1333
+"Ancash" "Peru" 126995 7124
+"Apurimac" "Peru" 38994 1630
+"Arequipa" "Peru" 212889 10287
+"Ayacucho" "Peru" 48133 2321
+"Cajamarca" "Peru" 95865 4456
+"Callao" "Peru" 146489 10484
+"Cusco" "Peru" 116820 5157
+"Huancavelica" "Peru" 25775 1269
+"Huanuco" "Peru" 52090 2887
+"Ica" "Peru" 103657 8925
+"Junin" "Peru" 126055 7463
+"La Libertad" "Peru" 146571 10931
+"Lambayeque" "Peru" 105508 9229
+"Lima" "Peru" 1607124 92992
+"Loreto" "Peru" 57901 4381
+"Madre de Dios" "Peru" 17817 847
+"Moquegua" "Peru" 48356 1619
+"Pasco" "Peru" 23919 1101
+"Piura" "Peru" 158293 13079
+"Puno" "Peru" 65788 4751
+"San Martin" "Peru" 61822 3159
+"Tacna" "Peru" 53711 2125
+"Tumbes" "Peru" 27421 1690
+"Ucayali" "Peru" 39472 3246
+"Philippines" "Philippines" 3681851 59778
+"Poland" "Poland" 5980220 115696
+"Portugal" "Portugal" 3697653 21958
+"Qatar" "Qatar" 363031 677
+"Romania" "Romania" 2875942 65249
+"Adygea Republic" "Russia" 48733 987
+"Altai Krai" "Russia" 264092 8532
+"Altai Republic" "Russia" 33948 603
+"Amur Oblast" "Russia" 105537 754
+"Arkhangelsk Oblast" "Russia" 226691 1676
+"Astrakhan Oblast" "Russia" 115414 2974
+"Bashkortostan Republic" "Russia" 281785 5567
+"Belgorod Oblast" "Russia" 128149 2193
+"Bryansk Oblast" "Russia" 159808 3880
+"Buryatia Republic" "Russia" 135188 2985
+"Chechen Republic" "Russia" 43192 1076
+"Chelyabinsk Oblast" "Russia" 322257 7508
+"Chukotka Autonomous Okrug" "Russia" 5557 42
+"Chuvashia Republic" "Russia" 77698 4572
+"Dagestan Republic" "Russia" 92550 3587
+"Ingushetia Republic" "Russia" 40570 549
+"Irkutsk Oblast" "Russia" 289503 8331
+"Ivanovo Oblast" "Russia" 108988 3052
+"Jewish Autonomous Okrug" "Russia" 18274 531
+"Kabardino-Balkarian Republic" "Russia" 61142 1847
+"Kaliningrad Oblast" "Russia" 166748 1829
+"Kalmykia Republic" "Russia" 50618 835
+"Kaluga Oblast" "Russia" 102096 1434
+"Kamchatka Krai" "Russia" 39306 609
+"Karachay-Cherkess Republic" "Russia" 45519 979
+"Karelia Republic" "Russia" 132525 1481
+"Kemerovo Oblast" "Russia" 159393 2271
+"Khabarovsk Krai" "Russia" 198576 1523
+"Khakassia Republic" "Russia" 87085 2381
+"Khanty-Mansi Autonomous Okrug" "Russia" 208153 2530
+"Kirov Oblast" "Russia" 149767 989
+"Komi Republic" "Russia" 169549 3093
+"Kostroma Oblast" "Russia" 87599 1335
+"Krasnodar Krai" "Russia" 254667 10767
+"Krasnoyarsk Krai" "Russia" 361814 10679
+"Kurgan Oblast" "Russia" 102558 1393
+"Kursk Oblast" "Russia" 115340 2416
+"Leningrad Oblast" "Russia" 183605 3459
+"Lipetsk Oblast" "Russia" 147481 3615
+"Magadan Oblast" "Russia" 19688 388
+"Mari El Republic" "Russia" 44373 1082
+"Mordovia Republic" "Russia" 66218 1363
+"Moscow" "Russia" 2749509 42928
+"Moscow Oblast" "Russia" 964622 14911
+"Murmansk Oblast" "Russia" 133877 3291
+"Nenets Autonomous Okrug" "Russia" 7253 100
+"Nizhny Novgorod Oblast" "Russia" 412822 11404
+"North Ossetia - Alania Republic" "Russia" 40526 1247
+"Novgorod Oblast" "Russia" 98023 1005
+"Novosibirsk Oblast" "Russia" 253708 5499
+"Omsk Oblast" "Russia" 204819 4275
+"Orel Oblast" "Russia" 109952 1862
+"Orenburg Oblast" "Russia" 213179 3922
+"Penza Oblast" "Russia" 182070 5672
+"Perm Krai" "Russia" 363163 8705
+"Primorsky Krai" "Russia" 172175 1920
+"Pskov Oblast" "Russia" 108217 1777
+"Rostov Oblast" "Russia" 368805 10812
+"Ryazan Oblast" "Russia" 117665 3329
+"Saint Petersburg" "Russia" 1508997 33245
+"Sakha (Yakutiya) Republic" "Russia" 176011 2103
+"Sakhalin Oblast" "Russia" 64280 826
+"Samara Oblast" "Russia" 378664 7716
+"Saratov Oblast" "Russia" 245098 5887
+"Smolensk Oblast" "Russia" 128791 2995
+"Stavropol Krai" "Russia" 194383 6994
+"Sverdlovsk Oblast" "Russia" 433598 10646
+"Tambov Oblast" "Russia" 113447 2359
+"Tatarstan Republic" "Russia" 140372 1920
+"Tomsk Oblast" "Russia" 128082 804
+"Tula Oblast" "Russia" 152188 5118
+"Tver Oblast" "Russia" 159033 2705
+"Tyumen Oblast" "Russia" 188380 4268
+"Tyva Republic" "Russia" 44392 349
+"Udmurt Republic" "Russia" 164786 3796
+"Ulyanovsk Oblast" "Russia" 200034 4598
+"Vladimir Oblast" "Russia" 149187 3396
+"Volgograd Oblast" "Russia" 212283 6775
+"Vologda Oblast" "Russia" 186993 3705
+"Voronezh Oblast" "Russia" 374874 8143
+"Yamalo-Nenets Autonomous Okrug" "Russia" 136063 1038
+"Yaroslavl Oblast" "Russia" 157013 2715
+"Zabaykalsky Krai" "Russia" 167095 2322
+"Rwanda" "Rwanda" 129757 1459
+"Saint Kitts and Nevis" "Saint Kitts and Nevis" 5554 43
+"Saint Lucia" "Saint Lucia" 23045 365
+"Saint Vincent and the Grenadines" "Saint Vincent and the Grenadines" 8344 106
+"Samoa" "Samoa" 4092 9
+"San Marino" "San Marino" 15779 114
+"Sao Tome and Principe" "Sao Tome and Principe" 5948 73
+"Saudi Arabia" "Saudi Arabia" 752078 9060
+"Senegal" "Senegal" 85952 1965
+"Serbia" "Serbia" 1991620 15899
+"Seychelles" "Seychelles" 41147 164
+"Sierra Leone" "Sierra Leone" 7677 125
+"Singapore" "Singapore" 1145121 1307
+"Slovakia" "Slovakia" 2495855 19618
+"Slovenia" "Slovenia" 990788 6541
+"Solomon Islands" "Solomon Islands" 12285 139
+"Somalia" "Somalia" 26471 1361
+"South Africa" "South Africa" 3733919 100116
+"South Sudan" "South Sudan" 17356 138
+"Andalusia" "Spain" 1414386 13283
+"Aragon" "Spain" 409988 4649
+"Asturias" "Spain" 209030 2624
+"Baleares" "Spain" 276345 1285
+"C. Valenciana" "Spain" 1364629 9181
+"Canarias" "Spain" 339471 1669
+"Cantabria" "Spain" 131229 790
+"Castilla - La Mancha" "Spain" 490946 7159
+"Castilla y Leon" "Spain" 688334 8412
+"Catalonia" "Spain" 2373041 18883
+"Ceuta" "Spain" 19880 146
+"Extremadura" "Spain" 254612 2292
+"Galicia" "Spain" 590178 3225
+"La Rioja" "Spain" 93719 913
+"Madrid" "Spain" 1645326 18185
+"Melilla" "Spain" 20739 154
+"Murcia" "Spain" 396966 2213
+"Navarra" "Spain" 233090 1522
+"Pais Vasco" "Spain" 675578 6519
+"Sri Lanka" "Sri Lanka" 662717 16492
+"Sudan" "Sudan" 62034 4925
+"Summer Olympics 2020" "Summer Olympics 2020" 865 0
+"Suriname" "Suriname" 79276 1325
+"Blekinge" "Sweden" 29506 161
+"Dalarna" "Sweden" 69147 459
+"Gavleborg" "Sweden" 73570 684
+"Gotland" "Sweden" 11369 69
+"Halland" "Sweden" 104212 436
+"Jamtland Harjedalen" "Sweden" 32612 168
+"Jonkoping" "Sweden" 86038 667
+"Kalmar" "Sweden" 59869 339
+"Kronoberg" "Sweden" 49222 380
+"Norrbotten" "Sweden" 48529 394
+"Orebro" "Sweden" 92019 452
+"Ostergotland" "Sweden" 94505 802
+"Skane" "Sweden" 336868 2337
+"Sormland" "Sweden" 63280 572
+"Stockholm" "Sweden" 570047 5202
+"Uppsala" "Sweden" 88969 665
+"Varmland" "Sweden" 64849 330
+"Vasterbotten" "Sweden" 56226 306
+"Vasternorrland" "Sweden" 53077 584
+"Vastmanland" "Sweden" 75407 475
+"Vastra Gotaland" "Sweden" 432659 3024
+"Switzerland" "Switzerland" 3568616 13620
+"Syria" "Syria" 55750 3147
+"Taiwan*" "Taiwan" 28666 854
+"Tajikistan" "Tajikistan" 17786 125
+"Tanzania" "Tanzania" 33851 803
+"Thailand" "Thailand" 3925854 26289
+"Timor-Leste" "Timor-Leste" 22844 130
+"Togo" "Togo" 36957 272
+"Tonga" "Tonga" 8559 11
+"Trinidad and Tobago" "Trinidad and Tobago" 140781 3787
+"Tunisia" "Tunisia" 1038668 28509
+"Turkey" "Turkey" 14972502 98462
+"Alabama" "US" 15749 214
+"Alabama" "US" 55512 678
+"Alabama" "US" 5658 98
+"Alabama" "US" 6425 101
+"Alabama" "US" 14934 241
+"Alabama" "US" 2303 53
+"Alabama" "US" 5052 129
+"Alabama" "US" 32360 620
+"Alabama" "US" 8476 161
+"Alabama" "US" 5116 85
+"Alabama" "US" 11072 202
+"Alabama" "US" 2049 36
+"Alabama" "US" 7140 99
+"Alabama" "US" 4080 81
+"Alabama" "US" 3557 69
+"Alabama" "US" 13567 231
+"Alabama" "US" 16316 260
+"Alabama" "US" 2862 71
+"Alabama" "US" 2962 58
+"Alabama" "US" 9309 229
+"Alabama" "US" 3800 98
+"Alabama" "US" 24521 365
+"Alabama" "US" 12866 229
+"Alabama" "US" 8395 242
+"Alabama" "US" 18748 326
+"Alabama" "US" 23263 343
+"Alabama" "US" 10010 169
+"Alabama" "US" 28769 643
+"Alabama" "US" 4981 96
+"Alabama" "US" 9857 137
+"Alabama" "US" 6461 163
+"Alabama" "US" 1870 48
+"Alabama" "US" 4714 105
+"Alabama" "US" 4571 75
+"Alabama" "US" 25672 503
+"Alabama" "US" 15020 237
+"Alabama" "US" 184657 2347
+"Alabama" "US" 3726 64
+"Alabama" "US" 24099 390
+"Alabama" "US" 7663 156
+"Alabama" "US" 37658 337
+"Alabama" "US" 24888 292
+"Alabama" "US" 2609 76
+"Alabama" "US" 3863 83
+"Alabama" "US" 89276 954
+"Alabama" "US" 5185 108
+"Alabama" "US" 8120 151
+"Alabama" "US" 27346 389
+"Alabama" "US" 113137 1640
+"Alabama" "US" 5268 80
+"Alabama" "US" 54788 936
+"Alabama" "US" 36029 512
+"Alabama" "US" 0 0
+"Alabama" "US" 2092 44
+"Alabama" "US" 5254 101
+"Alabama" "US" 7464 133
+"Alabama" "US" 5083 74
+"Alabama" "US" 10057 91
+"Alabama" "US" 60686 447
+"Alabama" "US" 25259 414
+"Alabama" "US" 2575 51
+"Alabama" "US" 22310 375
+"Alabama" "US" 11393 233
+"Alabama" "US" 55966 770
+"Alabama" "US" 0 0
+"Alabama" "US" 18656 440
+"Alabama" "US" 3731 59
+"Alabama" "US" 2885 46
+"Alabama" "US" 7565 129
+"Alaska" "US" 1072 3
+"Alaska" "US" 1686 2
+"Alaska" "US" 103156 519
+"Alaska" "US" 10014 41
+"Alaska" "US" 0 0
+"Alaska" "US" 840 1
+"Alaska" "US" 1961 9
+"Alaska" "US" 963 9
+"Alaska" "US" 411 1
+"Alaska" "US" 1824 11
+"Alaska" "US" 27495 136
+"Alaska" "US" 616 1
+"Alaska" "US" 8344 21
+"Alaska" "US" 17726 105
+"Alaska" "US" 3970 21
+"Alaska" "US" 4962 12
+"Alaska" "US" 4014 12
+"Alaska" "US" 34469 239
+"Alaska" "US" 6015 5
+"Alaska" "US" 4421 11
+"Alaska" "US" 4609 14
+"Alaska" "US" 723 4
+"Alaska" "US" 1439 8
+"Alaska" "US" 2360 6
+"Alaska" "US" 161 0
+"Alaska" "US" 2034 20
+"Alaska" "US" 909 1
+"Alaska" "US" 0 0
+"Alaska" "US" 526 1
+"Alaska" "US" 539 5
+"Alaska" "US" 1416 10
+"American Samoa" "US" 5434 12
+"Arizona" "US" 22246 605
+"Arizona" "US" 31364 559
+"Arizona" "US" 43529 472
+"Arizona" "US" 17117 376
+"Arizona" "US" 11940 173
+"Arizona" "US" 2215 32
+"Arizona" "US" 5182 141
+"Arizona" "US" 1272999 17004
+"Arizona" "US" 57317 1430
+"Arizona" "US" 38107 890
+"Arizona" "US" 0 0
+"Arizona" "US" 253451 3794
+"Arizona" "US" 131381 1619
+"Arizona" "US" 16649 227
+"Arizona" "US" 0 0
+"Arizona" "US" 47913 1192
+"Arizona" "US" 62610 1167
+"Arkansas" "US" 5682 79
+"Arkansas" "US" 5114 65
+"Arkansas" "US" 8757 247
+"Arkansas" "US" 66649 840
+"Arkansas" "US" 9431 179
+"Arkansas" "US" 2990 49
+"Arkansas" "US" 960 10
+"Arkansas" "US" 6102 102
+"Arkansas" "US" 2772 60
+"Arkansas" "US" 5306 79
+"Arkansas" "US" 4103 93
+"Arkansas" "US" 6444 128
+"Arkansas" "US" 2258 36
+"Arkansas" "US" 5417 94
+"Arkansas" "US" 5467 64
+"Arkansas" "US" 37600 326
+"Arkansas" "US" 15824 247
+"Arkansas" "US" 14261 226
+"Arkansas" "US" 4827 81
+"Arkansas" "US" 1739 31
+"Arkansas" "US" 3025 41
+"Arkansas" "US" 4680 70
+"Arkansas" "US" 35043 313
+"Arkansas" "US" 3809 72
+"Arkansas" "US" 2690 90
+"Arkansas" "US" 23275 508
+"Arkansas" "US" 4460 61
+"Arkansas" "US" 15875 171
+"Arkansas" "US" 4556 66
+"Arkansas" "US" 11172 133
+"Arkansas" "US" 3760 50
+"Arkansas" "US" 10604 209
+"Arkansas" "US" 3891 69
+"Arkansas" "US" 6100 62
+"Arkansas" "US" 18585 273
+"Arkansas" "US" 6806 85
+"Arkansas" "US" 1296 31
+"Arkansas" "US" 5293 76
+"Arkansas" "US" 2907 59
+"Arkansas" "US" 4912 68
+"Arkansas" "US" 3273 103
+"Arkansas" "US" 5115 79
+"Arkansas" "US" 19871 243
+"Arkansas" "US" 3959 61
+"Arkansas" "US" 3388 88
+"Arkansas" "US" 9549 175
+"Arkansas" "US" 13558 209
+"Arkansas" "US" 1927 35
+"Arkansas" "US" 1519 57
+"Arkansas" "US" 2183 45
+"Arkansas" "US" 1718 47
+"Arkansas" "US" 5464 104
+"Arkansas" "US" 2512 37
+"Arkansas" "US" 4804 98
+"Arkansas" "US" 2615 44
+"Arkansas" "US" 8017 126
+"Arkansas" "US" 4146 148
+"Arkansas" "US" 18411 208
+"Arkansas" "US" 1961 42
+"Arkansas" "US" 103070 1173
+"Arkansas" "US" 5178 87
+"Arkansas" "US" 30846 330
+"Arkansas" "US" 2293 43
+"Arkansas" "US" 2103 48
+"Arkansas" "US" 32696 520
+"Arkansas" "US" 5926 75
+"Arkansas" "US" 4631 105
+"Arkansas" "US" 7143 96
+"Arkansas" "US" 2911 67
+"Arkansas" "US" 26907 0
+"Arkansas" "US" 9232 175
+"Arkansas" "US" 3467 62
+"Arkansas" "US" 68342 618
+"Arkansas" "US" 22067 289
+"Arkansas" "US" 1727 31
+"Arkansas" "US" 6850 105
+"California" "US" 270529 1826
+"California" "US" 125 0
+"California" "US" 9135 86
+"California" "US" 39693 399
+"California" "US" 7616 119
+"California" "US" 4529 21
+"California" "US" 202417 1296
+"California" "US" 6008 50
+"California" "US" 29969 207
+"California" "US" 253824 2731
+"California" "US" 6565 47
+"California" "US" 20098 141
+"California" "US" 66395 910
+"California" "US" 4555 56
+"California" "US" 242803 2323
+"California" "US" 55143 443
+"California" "US" 11588 134
+"California" "US" 9845 65
+"California" "US" 2847097 31819
+"California" "US" 43423 368
+"California" "US" 35898 288
+"California" "US" 3031 34
+"California" "US" 16081 126
+"California" "US" 70750 811
+"California" "US" 995 8
+"California" "US" 3089 6
+"California" "US" 92869 727
+"California" "US" 26792 144
+"California" "US" 17189 123
+"California" "US" 588344 6937
+"California" "US" 0 0
+"California" "US" 70188 619
+"California" "US" 3247 13
+"California" "US" 619411 6429
+"California" "US" 304009 3100
+"California" "US" 13437 99
+"California" "US" 587246 6892
+"California" "US" 805799 5210
+"California" "US" 134369 844
+"California" "US" 175735 2212
+"California" "US" 56389 476
+"California" "US" 128573 747
+"California" "US" 90596 680
+"California" "US" 326422 2266
+"California" "US" 49711 259
+"California" "US" 36767 614
+"California" "US" 314 4
+"California" "US" 7200 80
+"California" "US" 87434 448
+"California" "US" 86121 488
+"California" "US" 136743 1752
+"California" "US" 22685 223
+"California" "US" 14665 201
+"California" "US" 1469 20
+"California" "US" 133711 1415
+"California" "US" 13199 180
+"California" "US" 5320 3
+"California" "US" 182625 1476
+"California" "US" 39782 312
+"California" "US" 17059 121
+"Colorado" "US" 132179 1256
+"Colorado" "US" 4504 60
+"Colorado" "US" 150963 1146
+"Colorado" "US" 2891 15
+"Colorado" "US" 843 8
+"Colorado" "US" 2531 47
+"Colorado" "US" 63726 357
+"Colorado" "US" 13381 112
+"Colorado" "US" 4532 44
+"Colorado" "US" 321 9
+"Colorado" "US" 1553 12
+"Colorado" "US" 1738 54
+"Colorado" "US" 692 16
+"Colorado" "US" 3297 28
+"Colorado" "US" 647 20
+"Colorado" "US" 6104 134
+"Colorado" "US" 169839 1283
+"Colorado" "US" 363 8
+"Colorado" "US" 77734 402
+"Colorado" "US" 15968 35
+"Colorado" "US" 184799 1611
+"Colorado" "US" 4763 37
+"Colorado" "US" 15225 178
+"Colorado" "US" 14629 90
+"Colorado" "US" 950 4
+"Colorado" "US" 3504 26
+"Colorado" "US" 3380 14
+"Colorado" "US" 123 0
+"Colorado" "US" 1442 31
+"Colorado" "US" 164 0
+"Colorado" "US" 123066 1326
+"Colorado" "US" 335 6
+"Colorado" "US" 1608 31
+"Colorado" "US" 12767 80
+"Colorado" "US" 1793 2
+"Colorado" "US" 77505 503
+"Colorado" "US" 3586 41
+"Colorado" "US" 2176 9
+"Colorado" "US" 7426 107
+"Colorado" "US" 42429 532
+"Colorado" "US" 229 1
+"Colorado" "US" 3014 51
+"Colorado" "US" 6175 73
+"Colorado" "US" 9278 158
+"Colorado" "US" 5635 135
+"Colorado" "US" 4275 126
+"Colorado" "US" 860 6
+"Colorado" "US" 0 0
+"Colorado" "US" 2826 20
+"Colorado" "US" 883 18
+"Colorado" "US" 6458 6
+"Colorado" "US" 2628 48
+"Colorado" "US" 46242 774
+"Colorado" "US" 1671 13
+"Colorado" "US" 2799 46
+"Colorado" "US" 6430 25
+"Colorado" "US" 1183 12
+"Colorado" "US" 201 0
+"Colorado" "US" 2271 8
+"Colorado" "US" 483 9
+"Colorado" "US" 9822 14
+"Colorado" "US" 4816 57
+"Colorado" "US" 128 0
+"Colorado" "US" 1060 27
+"Colorado" "US" 83227 695
+"Colorado" "US" 1874 23
+"Connecticut" "US" 204516 2703
+"Connecticut" "US" 178144 3127
+"Connecticut" "US" 31929 456
+"Connecticut" "US" 28250 479
+"Connecticut" "US" 196585 2812
+"Connecticut" "US" 55232 657
+"Connecticut" "US" 20699 272
+"Connecticut" "US" 2235 1
+"Connecticut" "US" 25771 301
+"Delaware" "US" 50256 640
+"Delaware" "US" 146801 1400
+"Delaware" "US" 61507 844
+"Delaware" "US" 855 0
+"Diamond Princess" "US" 49 0
+"District of Columbia" "US" 138939 1333
+"Florida" "US" 68452 659
+"Florida" "US" 8693 141
+"Florida" "US" 46531 817
+"Florida" "US" 7488 148
+"Florida" "US" 134227 2077
+"Florida" "US" 605192 5805
+"Florida" "US" 4093 98
+"Florida" "US" 36079 803
+"Florida" "US" 29638 969
+"Florida" "US" 53547 843
+"Florida" "US" 85122 992
+"Florida" "US" 21186 391
+"Florida" "US" 9414 149
+"Florida" "US" 4038 67
+"Florida" "US" 254286 3380
+"Florida" "US" 81569 1303
+"Florida" "US" 22435 355
+"Florida" "US" 3116 52
+"Florida" "US" 13451 201
+"Florida" "US" 4543 89
+"Florida" "US" 1990 36
+"Florida" "US" 4304 76
+"Florida" "US" 3850 55
+"Florida" "US" 8675 125
+"Florida" "US" 11708 160
+"Florida" "US" 42098 1085
+"Florida" "US" 24175 678
+"Florida" "US" 376164 3749
+"Florida" "US" 5449 86
+"Florida" "US" 32601 652
+"Florida" "US" 14864 276
+"Florida" "US" 3961 60
+"Florida" "US" 2776 60
+"Florida" "US" 85525 1502
+"Florida" "US" 191597 2140
+"Florida" "US" 85879 650
+"Florida" "US" 10257 163
+"Florida" "US" 2499 30
+"Florida" "US" 5855 96
+"Florida" "US" 96476 1419
+"Florida" "US" 83496 2081
+"Florida" "US" 30607 599
+"Florida" "US" 1189146 10800
+"Florida" "US" 18433 117
+"Florida" "US" 22176 291
+"Florida" "US" 51604 685
+"Florida" "US" 10673 183
+"Florida" "US" 378962 2801
+"Florida" "US" 114458 1140
+"Florida" "US" 370017 5004
+"Florida" "US" 122556 1873
+"Florida" "US" 211065 3315
+"Florida" "US" 200495 2963
+"Florida" "US" 17593 420
+"Florida" "US" 48607 615
+"Florida" "US" 91126 1586
+"Florida" "US" 103851 1082
+"Florida" "US" 62785 560
+"Florida" "US" 74364 1220
+"Florida" "US" 21858 570
+"Florida" "US" 12961 313
+"Florida" "US" 7003 102
+"Florida" "US" 2963 297
+"Florida" "US" 4311 115
+"Florida" "US" 117477 1976
+"Florida" "US" 9945 124
+"Florida" "US" 17371 209
+"Florida" "US" 6646 110
+"Georgia" "US" 4765 124
+"Georgia" "US" 2123 47
+"Georgia" "US" 3399 71
+"Georgia" "US" 535 14
+"Georgia" "US" 9511 234
+"Georgia" "US" 3898 88
+"Georgia" "US" 21855 251
+"Georgia" "US" 29140 442
+"Georgia" "US" 4295 122
+"Georgia" "US" 4931 82
+"Georgia" "US" 37089 778
+"Georgia" "US" 3312 96
+"Georgia" "US" 4110 107
+"Georgia" "US" 3411 84
+"Georgia" "US" 9102 91
+"Georgia" "US" 15315 262
+"Georgia" "US" 5269 108
+"Georgia" "US" 6463 154
+"Georgia" "US" 1340 22
+"Georgia" "US" 11363 118
+"Georgia" "US" 2167 94
+"Georgia" "US" 23683 450
+"Georgia" "US" 14562 162
+"Georgia" "US" 3017 62
+"Georgia" "US" 63492 872
+"Georgia" "US" 7453 22
+"Georgia" "US" 6623 132
+"Georgia" "US" 63019 620
+"Georgia" "US" 29644 226
+"Georgia" "US" 528 6
+"Georgia" "US" 63885 957
+"Georgia" "US" 2119 42
+"Georgia" "US" 173937 1774
+"Georgia" "US" 11089 284
+"Georgia" "US" 11053 242
+"Georgia" "US" 35918 380
+"Georgia" "US" 4883 74
+"Georgia" "US" 32914 481
+"Georgia" "US" 1761 54
+"Georgia" "US" 4647 136
+"Georgia" "US" 3285 28
+"Georgia" "US" 6862 100
+"Georgia" "US" 149202 1702
+"Georgia" "US" 7169 129
+"Georgia" "US" 5188 148
+"Georgia" "US" 2364 68
+"Georgia" "US" 19469 491
+"Georgia" "US" 34837 395
+"Georgia" "US" 2726 61
+"Georgia" "US" 933 12
+"Georgia" "US" 13128 193
+"Georgia" "US" 4537 108
+"Georgia" "US" 5891 158
+"Georgia" "US" 2371 67
+"Georgia" "US" 5096 155
+"Georgia" "US" 22415 316
+"Georgia" "US" 27174 518
+"Georgia" "US" 54652 391
+"Georgia" "US" 5340 100
+"Georgia" "US" 217295 2278
+"Georgia" "US" 6888 174
+"Georgia" "US" 606 25
+"Georgia" "US" 23155 406
+"Georgia" "US" 16328 263
+"Georgia" "US" 5728 111
+"Georgia" "US" 3918 84
+"Georgia" "US" 207875 1858
+"Georgia" "US" 9997 263
+"Georgia" "US" 53318 836
+"Georgia" "US" 1572 89
+"Georgia" "US" 5398 167
+"Georgia" "US" 6069 112
+"Georgia" "US" 4826 94
+"Georgia" "US" 2164 51
+"Georgia" "US" 57780 676
+"Georgia" "US" 39292 491
+"Georgia" "US" 1883 49
+"Georgia" "US" 21194 290
+"Georgia" "US" 3126 71
+"Georgia" "US" 3915 71
+"Georgia" "US" 3639 109
+"Georgia" "US" 1493 66
+"Georgia" "US" 2248 72
+"Georgia" "US" 5028 108
+"Georgia" "US" 4836 112
+"Georgia" "US" 2264 24
+"Georgia" "US" 13710 297
+"Georgia" "US" 7216 102
+"Georgia" "US" 12294 144
+"Georgia" "US" 1600 35
+"Georgia" "US" 2774 34
+"Georgia" "US" 30958 389
+"Georgia" "US" 7153 131
+"Georgia" "US" 2133 49
+"Georgia" "US" 6928 105
+"Georgia" "US" 1511 50
+"Georgia" "US" 5039 94
+"Georgia" "US" 2452 37
+"Georgia" "US" 4451 144
+"Georgia" "US" 1704 31
+"Georgia" "US" 5177 116
+"Georgia" "US" 5858 172
+"Georgia" "US" 2063 53
+"Georgia" "US" 4521 67
+"Georgia" "US" 11477 187
+"Georgia" "US" 38083 812
+"Georgia" "US" 24582 451
+"Georgia" "US" 8736 105
+"Georgia" "US" 3219 55
+"Georgia" "US" 79524 1428
+"Georgia" "US" 37998 428
+"Georgia" "US" 6160 133
+"Georgia" "US" 8300 163
+"Georgia" "US" 5800 133
+"Georgia" "US" 5439 95
+"Georgia" "US" 11837 190
+"Georgia" "US" 2154 77
+"Georgia" "US" 4486 105
+"Georgia" "US" 426 4
+"Georgia" "US" 3646 96
+"Georgia" "US" 1477 48
+"Georgia" "US" 50035 884
+"Georgia" "US" 18481 319
+"Georgia" "US" 1155 11
+"Georgia" "US" 2634 67
+"Georgia" "US" 2137 29
+"Georgia" "US" 15818 412
+"Georgia" "US" 6256 155
+"Georgia" "US" 2569 32
+"Georgia" "US" 6817 166
+"Georgia" "US" 1164 32
+"Georgia" "US" 267 3
+"Georgia" "US" 5074 131
+"Georgia" "US" 1976 53
+"Georgia" "US" 3057 84
+"Georgia" "US" 2030 64
+"Georgia" "US" 11688 209
+"Georgia" "US" 11518 215
+"Georgia" "US" 7069 199
+"Georgia" "US" 2381 110
+"Georgia" "US" 1628 61
+"Georgia" "US" 15404 378
+"Georgia" "US" 2536 60
+"Georgia" "US" 1534 69
+"Georgia" "US" 10535 7
+"Georgia" "US" 4852 155
+"Georgia" "US" 7718 232
+"Georgia" "US" 16770 238
+"Georgia" "US" 21844 429
+"Georgia" "US" 9955 278
+"Georgia" "US" 1056 30
+"Georgia" "US" 4371 137
+"Georgia" "US" 7751 204
+"Georgia" "US" 436 8
+"Georgia" "US" 1412 39
+"Georgia" "US" 6770 160
+"Georgia" "US" 34014 430
+"Georgia" "US" 1992 69
+"Georgia" "US" 2241 51
+"Georgia" "US" 2225 56
+"Georgia" "US" 4610 116
+"Grand Princess" "US" 103 3
+"Guam" "US" 47631 352
+"Hawaii" "US" 26341 184
+"Hawaii" "US" 167503 1022
+"Hawaii" "US" 11906 28
+"Hawaii" "US" 30047 136
+"Hawaii" "US" 6175 12
+"Hawaii" "US" 0 0
+"Idaho" "US" 133862 1016
+"Idaho" "US" 699 15
+"Idaho" "US" 20793 247
+"Idaho" "US" 912 15
+"Idaho" "US" 2395 41
+"Idaho" "US" 9765 154
+"Idaho" "US" 5980 30
+"Idaho" "US" 1091 13
+"Idaho" "US" 8865 184
+"Idaho" "US" 30820 285
+"Idaho" "US" 2087 61
+"Idaho" "US" 475 9
+"Idaho" "US" 158 2
+"Idaho" "US" 61431 684
+"Idaho" "US" 1483 25
+"Idaho" "US" 5028 52
+"Idaho" "US" 109 1
+"Idaho" "US" 2303 33
+"Idaho" "US" 525 9
+"Idaho" "US" 7193 70
+"Idaho" "US" 2330 29
+"Idaho" "US" 2156 28
+"Idaho" "US" 3638 79
+"Idaho" "US" 3280 55
+"Idaho" "US" 2971 52
+"Idaho" "US" 6032 65
+"Idaho" "US" 6067 65
+"Idaho" "US" 41926 590
+"Idaho" "US" 6699 48
+"Idaho" "US" 1254 25
+"Idaho" "US" 1133 29
+"Idaho" "US" 1104 15
+"Idaho" "US" 12653 50
+"Idaho" "US" 4227 62
+"Idaho" "US" 8896 147
+"Idaho" "US" 800 11
+"Idaho" "US" 2263 53
+"Idaho" "US" 5532 86
+"Idaho" "US" 1467 20
+"Idaho" "US" 2733 76
+"Idaho" "US" 2711 9
+"Idaho" "US" 24028 292
+"Idaho" "US" 0 0
+"Idaho" "US" 2604 16
+"Idaho" "US" 2386 57
+"Illinois" "US" 22315 209
+"Illinois" "US" 1283 15
+"Illinois" "US" 4328 31
+"Illinois" "US" 13827 117
+"Illinois" "US" 2408 15
+"Illinois" "US" 8346 127
+"Illinois" "US" 1521 5
+"Illinois" "US" 4246 48
+"Illinois" "US" 4608 35
+"Illinois" "US" 63243 287
+"Illinois" "US" 10228 111
+"Illinois" "US" 4850 52
+"Illinois" "US" 4734 68
+"Illinois" "US" 11966 113
+"Illinois" "US" 15304 171
+"Illinois" "US" 1137242 14286
+"Illinois" "US" 6196 45
+"Illinois" "US" 3349 37
+"Illinois" "US" 4326 37
+"Illinois" "US" 23415 194
+"Illinois" "US" 6464 55
+"Illinois" "US" 211246 1703
+"Illinois" "US" 5166 59
+"Illinois" "US" 1741 28
+"Illinois" "US" 10654 136
+"Illinois" "US" 7087 101
+"Illinois" "US" 4406 65
+"Illinois" "US" 12272 165
+"Illinois" "US" 10059 126
+"Illinois" "US" 1406 17
+"Illinois" "US" 3595 45
+"Illinois" "US" 12661 136
+"Illinois" "US" 2176 31
+"Illinois" "US" 4380 48
+"Illinois" "US" 1053 20
+"Illinois" "US" 1148 18
+"Illinois" "US" 12663 120
+"Illinois" "US" 7177 114
+"Illinois" "US" 15552 119
+"Illinois" "US" 2675 30
+"Illinois" "US" 11097 175
+"Illinois" "US" 6226 72
+"Illinois" "US" 4032 36
+"Illinois" "US" 4467 40
+"Illinois" "US" 126514 1123
+"Illinois" "US" 28852 365
+"Illinois" "US" 31069 161
+"Illinois" "US" 12528 215
+"Illinois" "US" 28977 384
+"Illinois" "US" 150318 1378
+"Illinois" "US" 5484 42
+"Illinois" "US" 8780 79
+"Illinois" "US" 10715 136
+"Illinois" "US" 9509 87
+"Illinois" "US" 30484 344
+"Illinois" "US" 12779 142
+"Illinois" "US" 70364 789
+"Illinois" "US" 11862 210
+"Illinois" "US" 2766 31
+"Illinois" "US" 3897 60
+"Illinois" "US" 3869 68
+"Illinois" "US" 7183 91
+"Illinois" "US" 76059 480
+"Illinois" "US" 49991 291
+"Illinois" "US" 3499 20
+"Illinois" "US" 4007 47
+"Illinois" "US" 9489 127
+"Illinois" "US" 9797 105
+"Illinois" "US" 9496 125
+"Illinois" "US" 4066 44
+"Illinois" "US" 13992 128
+"Illinois" "US" 5 0
+"Illinois" "US" 46572 518
+"Illinois" "US" 7464 97
+"Illinois" "US" 4416 23
+"Illinois" "US" 5033 67
+"Illinois" "US" 955 8
+"Illinois" "US" 1721 19
+"Illinois" "US" 1140 9
+"Illinois" "US" 10466 125
+"Illinois" "US" 5159 74
+"Illinois" "US" 33133 477
+"Illinois" "US" 7868 93
+"Illinois" "US" 54913 386
+"Illinois" "US" 1955 17
+"Illinois" "US" 1255 11
+"Illinois" "US" 6202 76
+"Illinois" "US" 63626 729
+"Illinois" "US" 1511 32
+"Illinois" "US" 11487 157
+"Illinois" "US" 36662 464
+"Illinois" "US" 94 2433
+"Illinois" "US" 5371 64
+"Illinois" "US" 27915 295
+"Illinois" "US" 3711 28
+"Illinois" "US" 4000 84
+"Illinois" "US" 3428 35
+"Illinois" "US" 5291 84
+"Illinois" "US" 4406 49
+"Illinois" "US" 15369 225
+"Illinois" "US" 162527 1530
+"Illinois" "US" 22573 249
+"Illinois" "US" 76572 819
+"Illinois" "US" 10381 111
+"Indiana" "US" 7261 112
+"Indiana" "US" 103767 1178
+"Indiana" "US" 21318 249
+"Indiana" "US" 2477 21
+"Indiana" "US" 3106 69
+"Indiana" "US" 15215 183
+"Indiana" "US" 2586 62
+"Indiana" "US" 4222 68
+"Indiana" "US" 11664 163
+"Indiana" "US" 31074 396
+"Indiana" "US" 6825 88
+"Indiana" "US" 9186 126
+"Indiana" "US" 2547 40
+"Indiana" "US" 7469 153
+"Indiana" "US" 11353 149
+"Indiana" "US" 13425 139
+"Indiana" "US" 6993 145
+"Indiana" "US" 24828 441
+"Indiana" "US" 12859 165
+"Indiana" "US" 54071 729
+"Indiana" "US" 6738 146
+"Indiana" "US" 18925 299
+"Indiana" "US" 5421 102
+"Indiana" "US" 4373 65
+"Indiana" "US" 4914 102
+"Indiana" "US" 11633 145
+"Indiana" "US" 17300 348
+"Indiana" "US" 7199 139
+"Indiana" "US" 81852 659
+"Indiana" "US" 20665 258
+"Indiana" "US" 10809 138
+"Indiana" "US" 40722 554
+"Indiana" "US" 12975 230
+"Indiana" "US" 25403 448
+"Indiana" "US" 11492 155
+"Indiana" "US" 12515 130
+"Indiana" "US" 9015 148
+"Indiana" "US" 4843 78
+"Indiana" "US" 9339 157
+"Indiana" "US" 6935 108
+"Indiana" "US" 42258 613
+"Indiana" "US" 10741 153
+"Indiana" "US" 19738 237
+"Indiana" "US" 5842 102
+"Indiana" "US" 25442 368
+"Indiana" "US" 106246 1818
+"Indiana" "US" 11849 259
+"Indiana" "US" 32665 648
+"Indiana" "US" 224954 2987
+"Indiana" "US" 12317 195
+"Indiana" "US" 2163 25
+"Indiana" "US" 9254 159
+"Indiana" "US" 27711 279
+"Indiana" "US" 10666 164
+"Indiana" "US" 16449 286
+"Indiana" "US" 2565 68
+"Indiana" "US" 13067 157
+"Indiana" "US" 1443 19
+"Indiana" "US" 5032 96
+"Indiana" "US" 5837 120
+"Indiana" "US" 3589 49
+"Indiana" "US" 4650 68
+"Indiana" "US" 3724 49
+"Indiana" "US" 37656 560
+"Indiana" "US" 6534 58
+"Indiana" "US" 3069 86
+"Indiana" "US" 9316 129
+"Indiana" "US" 5894 148
+"Indiana" "US" 8287 138
+"Indiana" "US" 4835 58
+"Indiana" "US" 7858 106
+"Indiana" "US" 13592 182
+"Indiana" "US" 5217 61
+"Indiana" "US" 70646 870
+"Indiana" "US" 4748 97
+"Indiana" "US" 9615 121
+"Indiana" "US" 5270 76
+"Indiana" "US" 2311 20
+"Indiana" "US" 50076 394
+"Indiana" "US" 3522 87
+"Indiana" "US" 0 10
+"Indiana" "US" 2019 21
+"Indiana" "US" 57270 629
+"Indiana" "US" 4073 75
+"Indiana" "US" 28838 412
+"Indiana" "US" 8717 156
+"Indiana" "US" 2090 30
+"Indiana" "US" 20263 238
+"Indiana" "US" 5994 82
+"Indiana" "US" 18834 334
+"Indiana" "US" 6496 132
+"Indiana" "US" 6864 95
+"Indiana" "US" 9658 84
+"Iowa" "US" 1583 50
+"Iowa" "US" 818 13
+"Iowa" "US" 2866 59
+"Iowa" "US" 2906 68
+"Iowa" "US" 1099 19
+"Iowa" "US" 6015 77
+"Iowa" "US" 32730 472
+"Iowa" "US" 5454 54
+"Iowa" "US" 5488 82
+"Iowa" "US" 4578 58
+"Iowa" "US" 6428 57
+"Iowa" "US" 3220 53
+"Iowa" "US" 2595 24
+"Iowa" "US" 4928 65
+"Iowa" "US" 2955 77
+"Iowa" "US" 4139 35
+"Iowa" "US" 11084 168
+"Iowa" "US" 2962 61
+"Iowa" "US" 2676 32
+"Iowa" "US" 2262 37
+"Iowa" "US" 4094 44
+"Iowa" "US" 3467 72
+"Iowa" "US" 11513 144
+"Iowa" "US" 4526 53
+"Iowa" "US" 23008 143
+"Iowa" "US" 1596 32
+"Iowa" "US" 1510 26
+"Iowa" "US" 4013 68
+"Iowa" "US" 9115 136
+"Iowa" "US" 4127 72
+"Iowa" "US" 25922 294
+"Iowa" "US" 2351 51
+"Iowa" "US" 4087 72
+"Iowa" "US" 3552 62
+"Iowa" "US" 2513 41
+"Iowa" "US" 1374 25
+"Iowa" "US" 1736 21
+"Iowa" "US" 2554 42
+"Iowa" "US" 2349 45
+"Iowa" "US" 3479 72
+"Iowa" "US" 2838 47
+"Iowa" "US" 4119 62
+"Iowa" "US" 3428 94
+"Iowa" "US" 5557 73
+"Iowa" "US" 2042 35
+"Iowa" "US" 2610 38
+"Iowa" "US" 1803 49
+"Iowa" "US" 3672 50
+"Iowa" "US" 4600 68
+"Iowa" "US" 8639 108
+"Iowa" "US" 3470 51
+"Iowa" "US" 34048 150
+"Iowa" "US" 5451 73
+"Iowa" "US" 2055 48
+"Iowa" "US" 3769 88
+"Iowa" "US" 7848 141
+"Iowa" "US" 52070 579
+"Iowa" "US" 2476 62
+"Iowa" "US" 1752 32
+"Iowa" "US" 2727 50
+"Iowa" "US" 3147 39
+"Iowa" "US" 4892 87
+"Iowa" "US" 7562 122
+"Iowa" "US" 9407 110
+"Iowa" "US" 3345 41
+"Iowa" "US" 2469 49
+"Iowa" "US" 1719 48
+"Iowa" "US" 1879 49
+"Iowa" "US" 2208 52
+"Iowa" "US" 9595 130
+"Iowa" "US" 3442 71
+"Iowa" "US" 1394 22
+"Iowa" "US" 3334 45
+"Iowa" "US" 2036 38
+"Iowa" "US" 6320 100
+"Iowa" "US" 1598 27
+"Iowa" "US" 124657 1089
+"Iowa" "US" 24261 315
+"Iowa" "US" 3601 61
+"Iowa" "US" 1134 33
+"Iowa" "US" 2402 32
+"Iowa" "US" 41009 389
+"Iowa" "US" 2712 50
+"Iowa" "US" 7981 86
+"Iowa" "US" 19759 89
+"Iowa" "US" 3860 90
+"Iowa" "US" 1318 21
+"Iowa" "US" 655 0
+"Iowa" "US" 2715 49
+"Iowa" "US" 1382 27
+"Iowa" "US" 8969 200
+"Iowa" "US" 12486 134
+"Iowa" "US" 5625 77
+"Iowa" "US" 1264 33
+"Iowa" "US" 10326 163
+"Iowa" "US" 2951 46
+"Iowa" "US" 3818 50
+"Iowa" "US" 28782 337
+"Iowa" "US" 1754 16
+"Iowa" "US" 3611 63
+"Kansas" "US" 3954 53
+"Kansas" "US" 2115 29
+"Kansas" "US" 4278 34
+"Kansas" "US" 1038 8
+"Kansas" "US" 6489 96
+"Kansas" "US" 4379 52
+"Kansas" "US" 2680 46
+"Kansas" "US" 18980 184
+"Kansas" "US" 676 7
+"Kansas" "US" 843 17
+"Kansas" "US" 6141 84
+"Kansas" "US" 656 14
+"Kansas" "US" 504 8
+"Kansas" "US" 1969 35
+"Kansas" "US" 2216 36
+"Kansas" "US" 2420 42
+"Kansas" "US" 439 16
+"Kansas" "US" 10108 152
+"Kansas" "US" 11868 128
+"Kansas" "US" 616 20
+"Kansas" "US" 4799 78
+"Kansas" "US" 2441 34
+"Kansas" "US" 25412 136
+"Kansas" "US" 558 13
+"Kansas" "US" 570 10
+"Kansas" "US" 7135 81
+"Kansas" "US" 2014 32
+"Kansas" "US" 11537 112
+"Kansas" "US" 10618 113
+"Kansas" "US" 6929 81
+"Kansas" "US" 9210 75
+"Kansas" "US" 785 23
+"Kansas" "US" 566 15
+"Kansas" "US" 2202 36
+"Kansas" "US" 1232 23
+"Kansas" "US" 331 3
+"Kansas" "US" 1785 23
+"Kansas" "US" 462 3
+"Kansas" "US" 1650 27
+"Kansas" "US" 9585 123
+"Kansas" "US" 961 11
+"Kansas" "US" 412 10
+"Kansas" "US" 3882 29
+"Kansas" "US" 4757 61
+"Kansas" "US" 786 13
+"Kansas" "US" 145478 1199
+"Kansas" "US" 1235 20
+"Kansas" "US" 1961 28
+"Kansas" "US" 667 7
+"Kansas" "US" 6600 74
+"Kansas" "US" 295 12
+"Kansas" "US" 19325 183
+"Kansas" "US" 621 10
+"Kansas" "US" 2815 28
+"Kansas" "US" 840 13
+"Kansas" "US" 9961 120
+"Kansas" "US" 3320 43
+"Kansas" "US" 2551 42
+"Kansas" "US" 7800 126
+"Kansas" "US" 1221 20
+"Kansas" "US" 7732 93
+"Kansas" "US" 1423 22
+"Kansas" "US" 9404 154
+"Kansas" "US" 1504 28
+"Kansas" "US" 620 11
+"Kansas" "US" 3232 60
+"Kansas" "US" 5143 66
+"Kansas" "US" 781 18
+"Kansas" "US" 2150 37
+"Kansas" "US" 3901 49
+"Kansas" "US" 799 17
+"Kansas" "US" 1205 17
+"Kansas" "US" 0 0
+"Kansas" "US" 2117 24
+"Kansas" "US" 1361 30
+"Kansas" "US" 5737 55
+"Kansas" "US" 1923 30
+"Kansas" "US" 678 9
+"Kansas" "US" 18568 228
+"Kansas" "US" 1346 16
+"Kansas" "US" 2610 23
+"Kansas" "US" 13524 80
+"Kansas" "US" 1368 20
+"Kansas" "US" 807 18
+"Kansas" "US" 1878 37
+"Kansas" "US" 14111 239
+"Kansas" "US" 1272 34
+"Kansas" "US" 144551 1360
+"Kansas" "US" 6909 59
+"Kansas" "US" 48153 612
+"Kansas" "US" 786 18
+"Kansas" "US" 1506 20
+"Kansas" "US" 643 7
+"Kansas" "US" 1136 26
+"Kansas" "US" 427 8
+"Kansas" "US" 1463 20
+"Kansas" "US" 5696 70
+"Kansas" "US" 2374 28
+"Kansas" "US" 753 10
+"Kansas" "US" 0 105
+"Kansas" "US" 1637 22
+"Kansas" "US" 438 5
+"Kansas" "US" 1395 22
+"Kansas" "US" 493 8
+"Kansas" "US" 2815 43
+"Kansas" "US" 792 15
+"Kansas" "US" 46813 477
+"Kentucky" "US" 5901 103
+"Kentucky" "US" 6582 103
+"Kentucky" "US" 6576 69
+"Kentucky" "US" 1349 28
+"Kentucky" "US" 12986 218
+"Kentucky" "US" 3139 43
+"Kentucky" "US" 8854 146
+"Kentucky" "US" 37267 280
+"Kentucky" "US" 5959 55
+"Kentucky" "US" 16273 175
+"Kentucky" "US" 8404 127
+"Kentucky" "US" 2173 26
+"Kentucky" "US" 3773 54
+"Kentucky" "US" 5029 78
+"Kentucky" "US" 21432 213
+"Kentucky" "US" 3859 53
+"Kentucky" "US" 4125 59
+"Kentucky" "US" 8119 92
+"Kentucky" "US" 22967 167
+"Kentucky" "US" 1036 19
+"Kentucky" "US" 3497 44
+"Kentucky" "US" 8619 105
+"Kentucky" "US" 4210 72
+"Kentucky" "US" 16391 204
+"Kentucky" "US" 10450 66
+"Kentucky" "US" 7863 91
+"Kentucky" "US" 3659 51
+"Kentucky" "US" 2287 49
+"Kentucky" "US" 2230 31
+"Kentucky" "US" 31046 382
+"Kentucky" "US" 2553 46
+"Kentucky" "US" 2421 19
+"Kentucky" "US" 4109 45
+"Kentucky" "US" 94706 588
+"Kentucky" "US" 3852 54
+"Kentucky" "US" 12519 191
+"Kentucky" "US" 13722 148
+"Kentucky" "US" 1207 28
+"Kentucky" "US" 2210 48
+"Kentucky" "US" 4799 75
+"Kentucky" "US" 7068 56
+"Kentucky" "US" 11335 179
+"Kentucky" "US" 8108 129
+"Kentucky" "US" 3739 44
+"Kentucky" "US" 12027 142
+"Kentucky" "US" 2485 24
+"Kentucky" "US" 32535 426
+"Kentucky" "US" 9209 204
+"Kentucky" "US" 6304 68
+"Kentucky" "US" 5409 98
+"Kentucky" "US" 13852 161
+"Kentucky" "US" 4764 49
+"Kentucky" "US" 871 26
+"Kentucky" "US" 14922 250
+"Kentucky" "US" 4275 78
+"Kentucky" "US" 224885 2298
+"Kentucky" "US" 15134 136
+"Kentucky" "US" 6049 109
+"Kentucky" "US" 42035 397
+"Kentucky" "US" 4214 62
+"Kentucky" "US" 11495 136
+"Kentucky" "US" 3720 71
+"Kentucky" "US" 20079 231
+"Kentucky" "US" 4550 68
+"Kentucky" "US" 2940 50
+"Kentucky" "US" 3724 48
+"Kentucky" "US" 7100 110
+"Kentucky" "US" 4515 84
+"Kentucky" "US" 6393 129
+"Kentucky" "US" 2466 59
+"Kentucky" "US" 8343 124
+"Kentucky" "US" 2862 33
+"Kentucky" "US" 27683 274
+"Kentucky" "US" 3915 50
+"Kentucky" "US" 6398 81
+"Kentucky" "US" 8392 102
+"Kentucky" "US" 3302 49
+"Kentucky" "US" 4815 103
+"Kentucky" "US" 18538 251
+"Kentucky" "US" 5715 78
+"Kentucky" "US" 2614 51
+"Kentucky" "US" 5797 65
+"Kentucky" "US" 1643 31
+"Kentucky" "US" 7347 103
+"Kentucky" "US" 2867 63
+"Kentucky" "US" 3616 76
+"Kentucky" "US" 7576 100
+"Kentucky" "US" 5067 22
+"Kentucky" "US" 10151 120
+"Kentucky" "US" 14431 149
+"Kentucky" "US" 2052 31
+"Kentucky" "US" 7305 101
+"Kentucky" "US" 18285 137
+"Kentucky" "US" 2363 33
+"Kentucky" "US" 1574 25
+"Kentucky" "US" 3478 38
+"Kentucky" "US" 11028 167
+"Kentucky" "US" 18938 294
+"Kentucky" "US" 4757 42
+"Kentucky" "US" 18078 279
+"Kentucky" "US" 639 21
+"Kentucky" "US" 5042 58
+"Kentucky" "US" 6659 64
+"Kentucky" "US" 6423 86
+"Kentucky" "US" 17160 103
+"Kentucky" "US" 13271 159
+"Kentucky" "US" 5610 90
+"Kentucky" "US" 5323 55
+"Kentucky" "US" 9468 120
+"Kentucky" "US" 2961 43
+"Kentucky" "US" 4004 44
+"Kentucky" "US" 2207 39
+"Kentucky" "US" 2795 10
+"Kentucky" "US" 4334 57
+"Kentucky" "US" 42883 363
+"Kentucky" "US" 3934 61
+"Kentucky" "US" 6073 90
+"Kentucky" "US" 3908 48
+"Kentucky" "US" 14370 187
+"Kentucky" "US" 2522 25
+"Kentucky" "US" 6837 48
+"Louisiana" "US" 15024 292
+"Louisiana" "US" 7377 137
+"Louisiana" "US" 33125 292
+"Louisiana" "US" 5247 69
+"Louisiana" "US" 10775 207
+"Louisiana" "US" 8781 142
+"Louisiana" "US" 3710 111
+"Louisiana" "US" 35347 491
+"Louisiana" "US" 63363 1143
+"Louisiana" "US" 51780 704
+"Louisiana" "US" 3315 55
+"Louisiana" "US" 1145 8
+"Louisiana" "US" 2560 55
+"Louisiana" "US" 3102 76
+"Louisiana" "US" 4805 89
+"Louisiana" "US" 6942 135
+"Louisiana" "US" 105522 1341
+"Louisiana" "US" 2339 38
+"Louisiana" "US" 6698 170
+"Louisiana" "US" 7945 157
+"Louisiana" "US" 6779 178
+"Louisiana" "US" 5535 94
+"Louisiana" "US" 18134 264
+"Louisiana" "US" 8530 153
+"Louisiana" "US" 4119 75
+"Louisiana" "US" 108447 1334
+"Louisiana" "US" 6598 157
+"Louisiana" "US" 4015 58
+"Louisiana" "US" 59389 499
+"Louisiana" "US" 26226 366
+"Louisiana" "US" 11468 144
+"Louisiana" "US" 35171 463
+"Louisiana" "US" 3028 59
+"Louisiana" "US" 6503 134
+"Louisiana" "US" 9542 166
+"Louisiana" "US" 83930 1108
+"Louisiana" "US" 47342 742
+"Louisiana" "US" 0 0
+"Louisiana" "US" 6137 45
+"Louisiana" "US" 5885 92
+"Louisiana" "US" 30913 575
+"Louisiana" "US" 1987 52
+"Louisiana" "US" 6171 95
+"Louisiana" "US" 5983 110
+"Louisiana" "US" 10726 111
+"Louisiana" "US" 13171 144
+"Louisiana" "US" 1836 23
+"Louisiana" "US" 5458 76
+"Louisiana" "US" 10044 184
+"Louisiana" "US" 21068 415
+"Louisiana" "US" 12270 186
+"Louisiana" "US" 11929 262
+"Louisiana" "US" 68254 848
+"Louisiana" "US" 32956 596
+"Louisiana" "US" 940 11
+"Louisiana" "US" 29272 414
+"Louisiana" "US" 934 0
+"Louisiana" "US" 6396 131
+"Louisiana" "US" 14433 223
+"Louisiana" "US" 9465 191
+"Louisiana" "US" 12225 248
+"Louisiana" "US" 10473 183
+"Louisiana" "US" 6883 90
+"Louisiana" "US" 3347 65
+"Louisiana" "US" 2712 46
+"Louisiana" "US" 4154 63
+"Maine" "US" 22496 283
+"Maine" "US" 12834 155
+"Maine" "US" 48616 355
+"Maine" "US" 5697 59
+"Maine" "US" 7403 84
+"Maine" "US" 23113 235
+"Maine" "US" 5978 33
+"Maine" "US" 5203 35
+"Maine" "US" 0 0
+"Maine" "US" 11310 144
+"Maine" "US" 27627 325
+"Maine" "US" 2978 31
+"Maine" "US" 5127 32
+"Maine" "US" 9716 103
+"Maine" "US" 12 0
+"Maine" "US" 6045 57
+"Maine" "US" 4384 55
+"Maine" "US" 39630 283
+"Maryland" "US" 17129 358
+"Maryland" "US" 89657 1065
+"Maryland" "US" 132192 2461
+"Maryland" "US" 112330 1766
+"Maryland" "US" 11141 144
+"Maryland" "US" 6055 80
+"Maryland" "US" 21439 398
+"Maryland" "US" 15493 258
+"Maryland" "US" 28023 351
+"Maryland" "US" 7723 107
+"Maryland" "US" 45695 518
+"Maryland" "US" 5718 115
+"Maryland" "US" 38294 574
+"Maryland" "US" 43890 375
+"Maryland" "US" 3048 66
+"Maryland" "US" 168751 2031
+"Maryland" "US" 170706 2137
+"Maryland" "US" 7102 110
+"Maryland" "US" 5207 73
+"Maryland" "US" 18895 213
+"Maryland" "US" 5574 86
+"Maryland" "US" 0 32
+"Maryland" "US" 35094 583
+"Maryland" "US" 19671 326
+"Maryland" "US" 8643 158
+"Massachusetts" "US" 35201 576
+"Massachusetts" "US" 23451 371
+"Massachusetts" "US" 150311 2138
+"Massachusetts" "US" 6852 16
+"Massachusetts" "US" 205978 2731
+"Massachusetts" "US" 10699 133
+"Massachusetts" "US" 133434 1781
+"Massachusetts" "US" 28019 351
+"Massachusetts" "US" 329623 3960
+"Massachusetts" "US" 132859 1879
+"Massachusetts" "US" 115906 1671
+"Massachusetts" "US" 213043 1983
+"Massachusetts" "US" 137667 6
+"Massachusetts" "US" 193106 2570
+"Michigan" "US" 1724 71
+"Michigan" "US" 1714 13
+"Michigan" "US" 27041 344
+"Michigan" "US" 5596 136
+"Michigan" "US" 4306 64
+"Michigan" "US" 3195 67
+"Michigan" "US" 2039 53
+"Michigan" "US" 14312 166
+"Michigan" "US" 26993 577
+"Michigan" "US" 3424 65
+"Michigan" "US" 34682 549
+"Michigan" "US" 11308 181
+"Michigan" "US" 34155 575
+"Michigan" "US" 11092 144
+"Michigan" "US" 4891 60
+"Michigan" "US" 4589 102
+"Michigan" "US" 8491 104
+"Michigan" "US" 6738 156
+"Michigan" "US" 21228 209
+"Michigan" "US" 2557 30
+"Michigan" "US" 9921 157
+"Michigan" "US" 7362 108
+"Michigan" "US" 26768 397
+"Michigan" "US" 6359 85
+"Michigan" "US" 326 5
+"Michigan" "US" 101180 1705
+"Michigan" "US" 5559 113
+"Michigan" "US" 3253 69
+"Michigan" "US" 17231 230
+"Michigan" "US" 10776 182
+"Michigan" "US" 10331 204
+"Michigan" "US" 7796 91
+"Michigan" "US" 8005 145
+"Michigan" "US" 63972 760
+"Michigan" "US" 16514 176
+"Michigan" "US" 4799 141
+"Michigan" "US" 2643 87
+"Michigan" "US" 15533 207
+"Michigan" "US" 39336 551
+"Michigan" "US" 59098 670
+"Michigan" "US" 3529 60
+"Michigan" "US" 166405 1517
+"Michigan" "US" 513 13
+"Michigan" "US" 1840 37
+"Michigan" "US" 20260 418
+"Michigan" "US" 3581 53
+"Michigan" "US" 24462 321
+"Michigan" "US" 46038 441
+"Michigan" "US" 1424 12
+"Michigan" "US" 2406 30
+"Michigan" "US" 229482 3936
+"Michigan" "US" 3692 87
+"Michigan" "US" 14958 127
+"Michigan" "US" 6736 91
+"Michigan" "US" 8640 108
+"Michigan" "US" 5621 70
+"Michigan" "US" 38272 177
+"Michigan" "US" 19021 223
+"Michigan" "US" 2904 60
+"Michigan" "US" 37967 471
+"Michigan" "US" 15019 209
+"Michigan" "US" 1715 47
+"Michigan" "US" 39598 633
+"Michigan" "US" 11468 156
+"Michigan" "US" 286376 3814
+"Michigan" "US" 6331 89
+"Michigan" "US" 4307 106
+"Michigan" "US" 983 38
+"Michigan" "US" 4995 80
+"Michigan" "US" 1434 55
+"Michigan" "US" 5613 99
+"Michigan" "US" 74720 786
+"Michigan" "US" 5748 40
+"Michigan" "US" 2061 58
+"Michigan" "US" 4613 113
+"Michigan" "US" 49181 936
+"Michigan" "US" 8670 190
+"Michigan" "US" 1750 16
+"Michigan" "US" 17765 230
+"Michigan" "US" 40547 828
+"Michigan" "US" 13667 204
+"Michigan" "US" 13190 275
+"Michigan" "US" 16 0
+"Michigan" "US" 17012 266
+"Michigan" "US" 75356 506
+"Michigan" "US" 399476 7895
+"Michigan" "US" 7066 106
+"Minnesota" "US" 2952 61
+"Minnesota" "US" 98501 793
+"Minnesota" "US" 8799 92
+"Minnesota" "US" 12011 125
+"Minnesota" "US" 14022 174
+"Minnesota" "US" 1383 8
+"Minnesota" "US" 17935 98
+"Minnesota" "US" 6530 81
+"Minnesota" "US" 8882 96
+"Minnesota" "US" 26663 116
+"Minnesota" "US" 7007 80
+"Minnesota" "US" 3073 48
+"Minnesota" "US" 14517 120
+"Minnesota" "US" 19776 123
+"Minnesota" "US" 2154 30
+"Minnesota" "US" 554 4
+"Minnesota" "US" 3223 41
+"Minnesota" "US" 15938 168
+"Minnesota" "US" 110117 769
+"Minnesota" "US" 5682 21
+"Minnesota" "US" 10892 116
+"Minnesota" "US" 3776 50
+"Minnesota" "US" 4785 24
+"Minnesota" "US" 9093 74
+"Minnesota" "US" 13121 131
+"Minnesota" "US" 1468 12
+"Minnesota" "US" 299324 2570
+"Minnesota" "US" 4539 18
+"Minnesota" "US" 4931 59
+"Minnesota" "US" 10080 117
+"Minnesota" "US" 11021 146
+"Minnesota" "US" 2142 17
+"Minnesota" "US" 3489 55
+"Minnesota" "US" 13408 138
+"Minnesota" "US" 1039 27
+"Minnesota" "US" 2707 37
+"Minnesota" "US" 1737 28
+"Minnesota" "US" 2068 28
+"Minnesota" "US" 764 6
+"Minnesota" "US" 6476 51
+"Minnesota" "US" 1213 6
+"Minnesota" "US" 7042 72
+"Minnesota" "US" 1759 17
+"Minnesota" "US" 2087 23
+"Minnesota" "US" 5589 64
+"Minnesota" "US" 10575 108
+"Minnesota" "US" 5927 75
+"Minnesota" "US" 7223 114
+"Minnesota" "US" 9089 104
+"Minnesota" "US" 11851 73
+"Minnesota" "US" 2027 16
+"Minnesota" "US" 7992 66
+"Minnesota" "US" 6947 60
+"Minnesota" "US" 1491 13
+"Minnesota" "US" 41172 177
+"Minnesota" "US" 13549 164
+"Minnesota" "US" 3552 41
+"Minnesota" "US" 7011 67
+"Minnesota" "US" 1988 34
+"Minnesota" "US" 8849 107
+"Minnesota" "US" 3031 17
+"Minnesota" "US" 124284 1332
+"Minnesota" "US" 936 13
+"Minnesota" "US" 3900 53
+"Minnesota" "US" 3735 56
+"Minnesota" "US" 17910 175
+"Minnesota" "US" 2330 34
+"Minnesota" "US" 4467 44
+"Minnesota" "US" 40178 259
+"Minnesota" "US" 27242 181
+"Minnesota" "US" 3514 24
+"Minnesota" "US" 47039 528
+"Minnesota" "US" 50782 366
+"Minnesota" "US" 10374 62
+"Minnesota" "US" 2628 13
+"Minnesota" "US" 2286 33
+"Minnesota" "US" 6761 57
+"Minnesota" "US" 853 10
+"Minnesota" "US" 786 240
+"Minnesota" "US" 5579 16
+"Minnesota" "US" 4212 55
+"Minnesota" "US" 5517 39
+"Minnesota" "US" 66959 479
+"Minnesota" "US" 2978 23
+"Minnesota" "US" 1653 22
+"Minnesota" "US" 12722 72
+"Minnesota" "US" 36533 304
+"Minnesota" "US" 2531 29
+"Mississippi" "US" 7150 142
+"Mississippi" "US" 10044 160
+"Mississippi" "US" 3252 69
+"Mississippi" "US" 5319 113
+"Mississippi" "US" 2267 49
+"Mississippi" "US" 9285 179
+"Mississippi" "US" 4638 70
+"Mississippi" "US" 2557 53
+"Mississippi" "US" 5587 96
+"Mississippi" "US" 2312 33
+"Mississippi" "US" 2142 46
+"Mississippi" "US" 4230 108
+"Mississippi" "US" 4962 98
+"Mississippi" "US" 6462 126
+"Mississippi" "US" 7140 120
+"Mississippi" "US" 7072 113
+"Mississippi" "US" 50104 553
+"Mississippi" "US" 21994 313
+"Mississippi" "US" 1924 38
+"Mississippi" "US" 7132 87
+"Mississippi" "US" 3187 59
+"Mississippi" "US" 5515 131
+"Mississippi" "US" 12220 152
+"Mississippi" "US" 53623 663
+"Mississippi" "US" 52230 788
+"Mississippi" "US" 4445 104
+"Mississippi" "US" 2030 45
+"Mississippi" "US" 262 9
+"Mississippi" "US" 7416 144
+"Mississippi" "US" 36919 462
+"Mississippi" "US" 4883 75
+"Mississippi" "US" 1479 37
+"Mississippi" "US" 2853 53
+"Mississippi" "US" 21178 291
+"Mississippi" "US" 2179 48
+"Mississippi" "US" 15273 178
+"Mississippi" "US" 17362 160
+"Mississippi" "US" 18801 367
+"Mississippi" "US" 3585 56
+"Mississippi" "US" 6403 120
+"Mississippi" "US" 26666 300
+"Mississippi" "US" 7307 169
+"Mississippi" "US" 8308 156
+"Mississippi" "US" 17493 237
+"Mississippi" "US" 24018 327
+"Mississippi" "US" 6957 135
+"Mississippi" "US" 9902 172
+"Mississippi" "US" 10979 220
+"Mississippi" "US" 2957 77
+"Mississippi" "US" 10612 241
+"Mississippi" "US" 6019 98
+"Mississippi" "US" 2719 48
+"Mississippi" "US" 11100 160
+"Mississippi" "US" 10520 169
+"Mississippi" "US" 15049 275
+"Mississippi" "US" 3040 64
+"Mississippi" "US" 9736 189
+"Mississippi" "US" 10332 144
+"Mississippi" "US" 8212 103
+"Mississippi" "US" 1574 31
+"Mississippi" "US" 36541 485
+"Mississippi" "US" 6528 118
+"Mississippi" "US" 952 26
+"Mississippi" "US" 7000 148
+"Mississippi" "US" 4111 68
+"Mississippi" "US" 5398 71
+"Mississippi" "US" 5768 124
+"Mississippi" "US" 3192 60
+"Mississippi" "US" 7346 143
+"Mississippi" "US" 7344 108
+"Mississippi" "US" 6155 122
+"Mississippi" "US" 2539 46
+"Mississippi" "US" 0 0
+"Mississippi" "US" 9471 122
+"Mississippi" "US" 3610 79
+"Mississippi" "US" 10209 202
+"Mississippi" "US" 10413 198
+"Mississippi" "US" 6003 87
+"Mississippi" "US" 3387 70
+"Mississippi" "US" 1797 46
+"Mississippi" "US" 5220 104
+"Mississippi" "US" 4081 57
+"Mississippi" "US" 8042 107
+"Missouri" "US" 5502 62
+"Missouri" "US" 4758 56
+"Missouri" "US" 1390 21
+"Missouri" "US" 5734 111
+"Missouri" "US" 6625 127
+"Missouri" "US" 2844 51
+"Missouri" "US" 3746 92
+"Missouri" "US" 4179 103
+"Missouri" "US" 2589 38
+"Missouri" "US" 43350 250
+"Missouri" "US" 22740 307
+"Missouri" "US" 10111 166
+"Missouri" "US" 1694 38
+"Missouri" "US" 12072 127
+"Missouri" "US" 9280 179
+"Missouri" "US" 18740 241
+"Missouri" "US" 2226 44
+"Missouri" "US" 1499 24
+"Missouri" "US" 24967 307
+"Missouri" "US" 2922 55
+"Missouri" "US" 1699 36
+"Missouri" "US" 20868 256
+"Missouri" "US" 1590 32
+"Missouri" "US" 26987 351
+"Missouri" "US" 4804 117
+"Missouri" "US" 20121 282
+"Missouri" "US" 4141 75
+"Missouri" "US" 5396 101
+"Missouri" "US" 1439 41
+"Missouri" "US" 3812 71
+"Missouri" "US" 1716 28
+"Missouri" "US" 2204 45
+"Missouri" "US" 3261 81
+"Missouri" "US" 2550 79
+"Missouri" "US" 7456 117
+"Missouri" "US" 22675 338
+"Missouri" "US" 3334 95
+"Missouri" "US" 2158 31
+"Missouri" "US" 69975 1023
+"Missouri" "US" 2485 67
+"Missouri" "US" 1821 33
+"Missouri" "US" 5741 83
+"Missouri" "US" 1827 56
+"Missouri" "US" 1055 29
+"Missouri" "US" 2167 25
+"Missouri" "US" 9002 210
+"Missouri" "US" 2197 43
+"Missouri" "US" 96894 1202
+"Missouri" "US" 34597 527
+"Missouri" "US" 53990 640
+"Missouri" "US" 12165 140
+"Missouri" "US" 112687 1290
+"Missouri" "US" 977 13
+"Missouri" "US" 8102 175
+"Missouri" "US" 7793 128
+"Missouri" "US" 7786 164
+"Missouri" "US" 2745 35
+"Missouri" "US" 15127 137
+"Missouri" "US" 2549 64
+"Missouri" "US" 3751 96
+"Missouri" "US" 3634 53
+"Missouri" "US" 3601 57
+"Missouri" "US" 1599 37
+"Missouri" "US" 7961 118
+"Missouri" "US" 5353 67
+"Missouri" "US" 697 13
+"Missouri" "US" 6101 118
+"Missouri" "US" 3457 56
+"Missouri" "US" 3814 56
+"Missouri" "US" 2173 42
+"Missouri" "US" 2500 57
+"Missouri" "US" 4025 109
+"Missouri" "US" 5030 85
+"Missouri" "US" 11730 203
+"Missouri" "US" 6026 44
+"Missouri" "US" 2022 33
+"Missouri" "US" 3212 44
+"Missouri" "US" 1710 55
+"Missouri" "US" 3006 74
+"Missouri" "US" 4989 45
+"Missouri" "US" 12208 160
+"Missouri" "US" 10185 240
+"Missouri" "US" 4238 63
+"Missouri" "US" 10378 101
+"Missouri" "US" 8040 108
+"Missouri" "US" 8818 114
+"Missouri" "US" 995 23
+"Missouri" "US" 2455 26
+"Missouri" "US" 6013 102
+"Missouri" "US" 5147 93
+"Missouri" "US" 1158 25
+"Missouri" "US" 2690 61
+"Missouri" "US" 6269 102
+"Missouri" "US" 735 26
+"Missouri" "US" 681 18
+"Missouri" "US" 11109 159
+"Missouri" "US" 1607 38
+"Missouri" "US" 1555 15
+"Missouri" "US" 93814 918
+"Missouri" "US" 2102 34
+"Missouri" "US" 19070 294
+"Missouri" "US" 221323 3307
+"Missouri" "US" 56254 772
+"Missouri" "US" 3655 39
+"Missouri" "US" 6103 128
+"Missouri" "US" 5784 120
+"Missouri" "US" 1706 21
+"Missouri" "US" 13307 223
+"Missouri" "US" 4719 100
+"Missouri" "US" 0 0
+"Missouri" "US" 5051 109
+"Missouri" "US" 8133 102
+"Missouri" "US" 5983 137
+"Missouri" "US" 2400 53
+"Missouri" "US" 9025 146
+"Missouri" "US" 401 3
+"Missouri" "US" 3834 80
+"Montana" "US" 2131 29
+"Montana" "US" 4957 94
+"Montana" "US" 2064 32
+"Montana" "US" 1271 18
+"Montana" "US" 2046 28
+"Montana" "US" 250 5
+"Montana" "US" 25134 322
+"Montana" "US" 990 14
+"Montana" "US" 3049 46
+"Montana" "US" 386 9
+"Montana" "US" 2330 56
+"Montana" "US" 2554 28
+"Montana" "US" 677 10
+"Montana" "US" 2509 55
+"Montana" "US" 29105 272
+"Montana" "US" 34201 119
+"Montana" "US" 225 3
+"Montana" "US" 3941 69
+"Montana" "US" 150 5
+"Montana" "US" 532 8
+"Montana" "US" 4540 71
+"Montana" "US" 2590 23
+"Montana" "US" 221 1
+"Montana" "US" 6587 98
+"Montana" "US" 17582 173
+"Montana" "US" 398 4
+"Montana" "US" 4728 86
+"Montana" "US" 1806 20
+"Montana" "US" 383 9
+"Montana" "US" 409 10
+"Montana" "US" 1090 17
+"Montana" "US" 27309 201
+"Montana" "US" 913 26
+"Montana" "US" 4187 35
+"Montana" "US" 35 1
+"Montana" "US" 1062 28
+"Montana" "US" 1163 6
+"Montana" "US" 335 10
+"Montana" "US" 1865 28
+"Montana" "US" 263 3
+"Montana" "US" 7041 141
+"Montana" "US" 2635 33
+"Montana" "US" 3272 72
+"Montana" "US" 2631 60
+"Montana" "US" 2147 47
+"Montana" "US" 696 11
+"Montana" "US" 8472 130
+"Montana" "US" 1529 30
+"Montana" "US" 774 12
+"Montana" "US" 1278 22
+"Montana" "US" 1246 23
+"Montana" "US" 134 1
+"Montana" "US" 0 0
+"Montana" "US" 1704 36
+"Montana" "US" 385 14
+"Montana" "US" 204 8
+"Montana" "US" 42863 547
+"Nebraska" "US" 6501 73
+"Nebraska" "US" 1075 14
+"Nebraska" "US" 32 1
+"Nebraska" "US" 89 2
+"Nebraska" "US" 67 3
+"Nebraska" "US" 1092 4
+"Nebraska" "US" 2339 17
+"Nebraska" "US" 405 7
+"Nebraska" "US" 508 4
+"Nebraska" "US" 12004 98
+"Nebraska" "US" 1345 16
+"Nebraska" "US" 1907 18
+"Nebraska" "US" 6129 38
+"Nebraska" "US" 1506 14
+"Nebraska" "US" 745 6
+"Nebraska" "US" 537 9
+"Nebraska" "US" 2028 24
+"Nebraska" "US" 1515 24
+"Nebraska" "US" 2735 27
+"Nebraska" "US" 1808 15
+"Nebraska" "US" 2034 30
+"Nebraska" "US" 6898 69
+"Nebraska" "US" 1362 11
+"Nebraska" "US" 5265 43
+"Nebraska" "US" 323 2
+"Nebraska" "US" 1184 10
+"Nebraska" "US" 10125 107
+"Nebraska" "US" 149567 1030
+"Nebraska" "US" 349 6
+"Nebraska" "US" 1128 12
+"Nebraska" "US" 421 12
+"Nebraska" "US" 542 2
+"Nebraska" "US" 1121 7
+"Nebraska" "US" 3588 44
+"Nebraska" "US" 370 0
+"Nebraska" "US" 397 2
+"Nebraska" "US" 372 7
+"Nebraska" "US" 106 5
+"Nebraska" "US" 411 2
+"Nebraska" "US" 16522 140
+"Nebraska" "US" 2251 24
+"Nebraska" "US" 378 3
+"Nebraska" "US" 106 0
+"Nebraska" "US" 532 8
+"Nebraska" "US" 2155 20
+"Nebraska" "US" 112 5
+"Nebraska" "US" 1188 15
+"Nebraska" "US" 1210 7
+"Nebraska" "US" 869 9
+"Nebraska" "US" 1183 9
+"Nebraska" "US" 1540 19
+"Nebraska" "US" 119 0
+"Nebraska" "US" 769 4
+"Nebraska" "US" 1678 12
+"Nebraska" "US" 78215 289
+"Nebraska" "US" 8725 107
+"Nebraska" "US" 148 0
+"Nebraska" "US" 87 0
+"Nebraska" "US" 9681 68
+"Nebraska" "US" 74 1
+"Nebraska" "US" 1702 17
+"Nebraska" "US" 1244 20
+"Nebraska" "US" 801 12
+"Nebraska" "US" 1486 20
+"Nebraska" "US" 977 13
+"Nebraska" "US" 3347 18
+"Nebraska" "US" 413 2
+"Nebraska" "US" 532 12
+"Nebraska" "US" 2327 14
+"Nebraska" "US" 1274 21
+"Nebraska" "US" 8652 74
+"Nebraska" "US" 1221 12
+"Nebraska" "US" 2329 20
+"Nebraska" "US" 1808 22
+"Nebraska" "US" 172 2
+"Nebraska" "US" 3798 12
+"Nebraska" "US" 49742 247
+"Nebraska" "US" 5022 30
+"Nebraska" "US" 9444 83
+"Nebraska" "US" 3371 41
+"Nebraska" "US" 1001 22
+"Nebraska" "US" 585 4
+"Nebraska" "US" 65 1
+"Nebraska" "US" 746 11
+"Nebraska" "US" 1109 8
+"Nebraska" "US" 97 1
+"Nebraska" "US" 1783 23
+"Nebraska" "US" 3843 781
+"Nebraska" "US" 752 6
+"Nebraska" "US" 4542 42
+"Nebraska" "US" 1825 11
+"Nebraska" "US" 713 10
+"Nebraska" "US" 127 2
+"Nebraska" "US" 3928 21
+"Nevada" "US" 14886 216
+"Nevada" "US" 6569 110
+"Nevada" "US" 535929 7825
+"Nevada" "US" 7257 91
+"Nevada" "US" 11612 138
+"Nevada" "US" 109 3
+"Nevada" "US" 165 2
+"Nevada" "US" 2505 54
+"Nevada" "US" 1177 21
+"Nevada" "US" 550 7
+"Nevada" "US" 10026 170
+"Nevada" "US" 1261 17
+"Nevada" "US" 7459 239
+"Nevada" "US" 2128 29
+"Nevada" "US" 132 11
+"Nevada" "US" 0 0
+"Nevada" "US" 104517 1184
+"Nevada" "US" 1698 19
+"New Hampshire" "US" 13597 175
+"New Hampshire" "US" 9375 59
+"New Hampshire" "US" 14908 111
+"New Hampshire" "US" 6957 113
+"New Hampshire" "US" 17796 66
+"New Hampshire" "US" 97706 905
+"New Hampshire" "US" 32239 227
+"New Hampshire" "US" 67197 531
+"New Hampshire" "US" 29333 206
+"New Hampshire" "US" 9278 68
+"New Hampshire" "US" 6117 2
+"New Jersey" "US" 68544 990
+"New Jersey" "US" 225868 3432
+"New Jersey" "US" 102680 1196
+"New Jersey" "US" 126056 1790
+"New Jersey" "US" 21932 297
+"New Jersey" "US" 39500 598
+"New Jersey" "US" 213770 3598
+"New Jersey" "US" 69892 958
+"New Jersey" "US" 172539 2722
+"New Jersey" "US" 24774 274
+"New Jersey" "US" 76674 1253
+"New Jersey" "US" 194413 2863
+"New Jersey" "US" 165068 2164
+"New Jersey" "US" 119541 1529
+"New Jersey" "US" 162736 2923
+"New Jersey" "US" 145287 2334
+"New Jersey" "US" 14340 245
+"New Jersey" "US" 68261 970
+"New Jersey" "US" 34049 473
+"New Jersey" "US" 3326 0
+"New Jersey" "US" 145542 2356
+"New Jersey" "US" 23994 341
+"New Mexico" "US" 146988 1801
+"New Mexico" "US" 420 13
+"New Mexico" "US" 21338 320
+"New Mexico" "US" 7002 184
+"New Mexico" "US" 2422 64
+"New Mexico" "US" 12614 188
+"New Mexico" "US" 572 5
+"New Mexico" "US" 63010 746
+"New Mexico" "US" 17010 275
+"New Mexico" "US" 6657 86
+"New Mexico" "US" 1105 17
+"New Mexico" "US" 83 4
+"New Mexico" "US" 1097 14
+"New Mexico" "US" 19201 329
+"New Mexico" "US" 5240 66
+"New Mexico" "US" 2742 16
+"New Mexico" "US" 6707 126
+"New Mexico" "US" 25839 587
+"New Mexico" "US" 763 17
+"New Mexico" "US" 13375 183
+"New Mexico" "US" 1999 51
+"New Mexico" "US" 9780 132
+"New Mexico" "US" 4998 92
+"New Mexico" "US" 40732 744
+"New Mexico" "US" 5855 55
+"New Mexico" "US" 33519 419
+"New Mexico" "US" 28372 269
+"New Mexico" "US" 2036 70
+"New Mexico" "US" 3792 86
+"New Mexico" "US" 5327 89
+"New Mexico" "US" 2682 53
+"New Mexico" "US" 6714 0
+"New Mexico" "US" 783 15
+"New Mexico" "US" 18568 267
+"New York" "US" 59499 510
+"New York" "US" 8955 154
+"New York" "US" 408711 7726
+"New York" "US" 45852 514
+"New York" "US" 15486 221
+"New York" "US" 16590 147
+"New York" "US" 23599 300
+"New York" "US" 21454 230
+"New York" "US" 9381 120
+"New York" "US" 16952 86
+"New York" "US" 10126 140
+"New York" "US" 10803 116
+"New York" "US" 7854 69
+"New York" "US" 64320 655
+"New York" "US" 210498 2617
+"New York" "US" 5773 59
+"New York" "US" 9576 44
+"New York" "US" 12772 169
+"New York" "US" 13703 185
+"New York" "US" 8682 125
+"New York" "US" 875 5
+"New York" "US" 13968 190
+"New York" "US" 20220 136
+"New York" "US" 701840 12793
+"New York" "US" 6174 49
+"New York" "US" 11711 115
+"New York" "US" 13422 126
+"New York" "US" 153494 1555
+"New York" "US" 11971 203
+"New York" "US" 406550 3825
+"New York" "US" 420478 5438
+"New York" "US" 48157 572
+"New York" "US" 54154 782
+"New York" "US" 114864 1047
+"New York" "US" 20163 176
+"New York" "US" 111020 1143
+"New York" "US" 8649 113
+"New York" "US" 26925 187
+"New York" "US" 10023 88
+"New York" "US" 0 459
+"New York" "US" 23805 121
+"New York" "US" 644078 11844
+"New York" "US" 31704 248
+"New York" "US" 166672 2316
+"New York" "US" 92905 891
+"New York" "US" 46479 329
+"New York" "US" 33168 297
+"New York" "US" 5051 36
+"New York" "US" 3524 25
+"New York" "US" 6054 89
+"New York" "US" 21457 183
+"New York" "US" 20023 248
+"New York" "US" 428621 4368
+"New York" "US" 18495 129
+"New York" "US" 10858 82
+"New York" "US" 19181 84
+"New York" "US" 32027 361
+"New York" "US" 569 1
+"New York" "US" 13736 127
+"New York" "US" 12134 113
+"New York" "US" 17425 173
+"New York" "US" 253169 2706
+"New York" "US" 8302 82
+"New York" "US" 3417 39
+"North Carolina" "US" 46732 456
+"North Carolina" "US" 10426 133
+"North Carolina" "US" 2948 12
+"North Carolina" "US" 6542 96
+"North Carolina" "US" 6375 73
+"North Carolina" "US" 4563 43
+"North Carolina" "US" 12393 161
+"North Carolina" "US" 4234 67
+"North Carolina" "US" 9312 121
+"North Carolina" "US" 29809 309
+"North Carolina" "US" 52294 554
+"North Carolina" "US" 25061 316
+"North Carolina" "US" 55554 469
+"North Carolina" "US" 22190 300
+"North Carolina" "US" 1751 9
+"North Carolina" "US" 14079 85
+"North Carolina" "US" 5273 44
+"North Carolina" "US" 47541 568
+"North Carolina" "US" 12768 109
+"North Carolina" "US" 7090 117
+"North Carolina" "US" 4129 56
+"North Carolina" "US" 2640 39
+"North Carolina" "US" 29535 364
+"North Carolina" "US" 15921 266
+"North Carolina" "US" 24189 195
+"North Carolina" "US" 84859 562
+"North Carolina" "US" 4984 32
+"North Carolina" "US" 7372 23
+"North Carolina" "US" 43010 393
+"North Carolina" "US" 11131 93
+"North Carolina" "US" 16823 239
+"North Carolina" "US" 70925 298
+"North Carolina" "US" 13489 141
+"North Carolina" "US" 92184 792
+"North Carolina" "US" 20300 67
+"North Carolina" "US" 65114 794
+"North Carolina" "US" 1894 19
+"North Carolina" "US" 2271 30
+"North Carolina" "US" 14241 111
+"North Carolina" "US" 5786 61
+"North Carolina" "US" 116888 1159
+"North Carolina" "US" 13912 182
+"North Carolina" "US" 32991 328
+"North Carolina" "US" 12938 203
+"North Carolina" "US" 24901 293
+"North Carolina" "US" 4742 81
+"North Carolina" "US" 14711 103
+"North Carolina" "US" 1310 13
+"North Carolina" "US" 48323 446
+"North Carolina" "US" 9374 86
+"North Carolina" "US" 59202 433
+"North Carolina" "US" 2210 38
+"North Carolina" "US" 15933 145
+"North Carolina" "US" 15747 206
+"North Carolina" "US" 24282 158
+"North Carolina" "US" 7775 117
+"North Carolina" "US" 5082 80
+"North Carolina" "US" 6058 89
+"North Carolina" "US" 13673 169
+"North Carolina" "US" 278042 1559
+"North Carolina" "US" 3425 34
+"North Carolina" "US" 7261 126
+"North Carolina" "US" 24167 318
+"North Carolina" "US" 26650 299
+"North Carolina" "US" 50497 385
+"North Carolina" "US" 4316 82
+"North Carolina" "US" 51821 374
+"North Carolina" "US" 26215 124
+"North Carolina" "US" 2592 27
+"North Carolina" "US" 8483 111
+"North Carolina" "US" 15260 118
+"North Carolina" "US" 2744 18
+"North Carolina" "US" 9275 104
+"North Carolina" "US" 52313 176
+"North Carolina" "US" 3888 54
+"North Carolina" "US" 35456 401
+"North Carolina" "US" 12779 185
+"North Carolina" "US" 40385 523
+"North Carolina" "US" 21945 268
+"North Carolina" "US" 41104 567
+"North Carolina" "US" 17452 397
+"North Carolina" "US" 18741 170
+"North Carolina" "US" 9987 126
+"North Carolina" "US" 19405 249
+"North Carolina" "US" 11195 172
+"North Carolina" "US" 21009 331
+"North Carolina" "US" 3520 38
+"North Carolina" "US" 6120 71
+"North Carolina" "US" 975 8
+"North Carolina" "US" 0 0
+"North Carolina" "US" 61557 479
+"North Carolina" "US" 11831 112
+"North Carolina" "US" 290240 1048
+"North Carolina" "US" 4312 39
+"North Carolina" "US" 3015 50
+"North Carolina" "US" 12360 58
+"North Carolina" "US" 30929 387
+"North Carolina" "US" 17514 256
+"North Carolina" "US" 21621 303
+"North Carolina" "US" 10806 113
+"North Carolina" "US" 5016 51
+"North Dakota" "US" 598 10
+"North Dakota" "US" 2968 47
+"North Dakota" "US" 1968 23
+"North Dakota" "US" 140 1
+"North Dakota" "US" 1586 26
+"North Dakota" "US" 828 9
+"North Dakota" "US" 432 3
+"North Dakota" "US" 34905 303
+"North Dakota" "US" 58967 333
+"North Dakota" "US" 818 7
+"North Dakota" "US" 1485 39
+"North Dakota" "US" 456 4
+"North Dakota" "US" 1038 8
+"North Dakota" "US" 761 6
+"North Dakota" "US" 727 18
+"North Dakota" "US" 985 23
+"North Dakota" "US" 475 4
+"North Dakota" "US" 22113 125
+"North Dakota" "US" 452 11
+"North Dakota" "US" 571 2
+"North Dakota" "US" 828 8
+"North Dakota" "US" 506 13
+"North Dakota" "US" 1003 20
+"North Dakota" "US" 435 12
+"North Dakota" "US" 1306 31
+"North Dakota" "US" 685 9
+"North Dakota" "US" 3260 25
+"North Dakota" "US" 2723 49
+"North Dakota" "US" 2566 24
+"North Dakota" "US" 11225 142
+"North Dakota" "US" 3243 37
+"North Dakota" "US" 761 18
+"North Dakota" "US" 329 5
+"North Dakota" "US" 1971 16
+"North Dakota" "US" 1059 32
+"North Dakota" "US" 3611 57
+"North Dakota" "US" 1491 28
+"North Dakota" "US" 549 15
+"North Dakota" "US" 4061 23
+"North Dakota" "US" 6023 43
+"North Dakota" "US" 1009 9
+"North Dakota" "US" 297 7
+"North Dakota" "US" 1337 19
+"North Dakota" "US" 63 0
+"North Dakota" "US" 11632 86
+"North Dakota" "US" 380 2
+"North Dakota" "US" 7056 97
+"North Dakota" "US" 634 12
+"North Dakota" "US" 2190 26
+"North Dakota" "US" 63 22
+"North Dakota" "US" 3352 34
+"North Dakota" "US" 20770 251
+"North Dakota" "US" 1011 12
+"North Dakota" "US" 10470 68
+"Northern Mariana Islands" "US" 11203 34
+"Ohio" "US" 6966 146
+"Ohio" "US" 27433 476
+"Ohio" "US" 11959 217
+"Ohio" "US" 19820 425
+"Ohio" "US" 14511 141
+"Ohio" "US" 11574 188
+"Ohio" "US" 15667 303
+"Ohio" "US" 11179 177
+"Ohio" "US" 92752 1144
+"Ohio" "US" 5253 125
+"Ohio" "US" 8715 145
+"Ohio" "US" 34938 580
+"Ohio" "US" 51283 549
+"Ohio" "US" 10307 167
+"Ohio" "US" 24374 483
+"Ohio" "US" 7946 158
+"Ohio" "US" 11177 214
+"Ohio" "US" 268759 3756
+"Ohio" "US" 12371 236
+"Ohio" "US" 10209 164
+"Ohio" "US" 44255 271
+"Ohio" "US" 19434 265
+"Ohio" "US" 38473 428
+"Ohio" "US" 7783 121
+"Ohio" "US" 289003 2569
+"Ohio" "US" 10320 180
+"Ohio" "US" 7481 124
+"Ohio" "US" 16022 264
+"Ohio" "US" 37509 511
+"Ohio" "US" 10458 150
+"Ohio" "US" 187652 2052
+"Ohio" "US" 17091 273
+"Ohio" "US" 7067 157
+"Ohio" "US" 3227 74
+"Ohio" "US" 6424 106
+"Ohio" "US" 10600 180
+"Ohio" "US" 6668 120
+"Ohio" "US" 5106 181
+"Ohio" "US" 14484 220
+"Ohio" "US" 8906 140
+"Ohio" "US" 14700 317
+"Ohio" "US" 13157 227
+"Ohio" "US" 48894 732
+"Ohio" "US" 17855 242
+"Ohio" "US" 41662 475
+"Ohio" "US" 10225 171
+"Ohio" "US" 66517 971
+"Ohio" "US" 100143 1408
+"Ohio" "US" 9660 130
+"Ohio" "US" 53371 1082
+"Ohio" "US" 19841 266
+"Ohio" "US" 40005 505
+"Ohio" "US" 4615 87
+"Ohio" "US" 9684 142
+"Ohio" "US" 25702 480
+"Ohio" "US" 3471 81
+"Ohio" "US" 126726 1998
+"Ohio" "US" 3268 59
+"Ohio" "US" 7751 103
+"Ohio" "US" 25280 293
+"Ohio" "US" 3205 57
+"Ohio" "US" 8463 138
+"Ohio" "US" 4607 74
+"Ohio" "US" 8296 124
+"Ohio" "US" 17507 227
+"Ohio" "US" 7455 120
+"Ohio" "US" 34138 445
+"Ohio" "US" 9453 197
+"Ohio" "US" 8449 154
+"Ohio" "US" 31517 505
+"Ohio" "US" 19236 295
+"Ohio" "US" 13892 233
+"Ohio" "US" 20630 252
+"Ohio" "US" 12737 226
+"Ohio" "US" 11051 186
+"Ohio" "US" 79756 1702
+"Ohio" "US" 112216 1701
+"Ohio" "US" 41544 933
+"Ohio" "US" 20581 496
+"Ohio" "US" 0 5
+"Ohio" "US" 15610 102
+"Ohio" "US" 6706 145
+"Ohio" "US" 2906 55
+"Ohio" "US" 57666 581
+"Ohio" "US" 12339 206
+"Ohio" "US" 23112 435
+"Ohio" "US" 8999 164
+"Ohio" "US" 31466 354
+"Ohio" "US" 5409 105
+"Oklahoma" "US" 7940 73
+"Oklahoma" "US" 1714 14
+"Oklahoma" "US" 3875 51
+"Oklahoma" "US" 966 11
+"Oklahoma" "US" 5930 106
+"Oklahoma" "US" 2455 41
+"Oklahoma" "US" 13571 135
+"Oklahoma" "US" 8245 161
+"Oklahoma" "US" 39383 385
+"Oklahoma" "US" 14274 231
+"Oklahoma" "US" 14507 149
+"Oklahoma" "US" 4060 62
+"Oklahoma" "US" 569 7
+"Oklahoma" "US" 79158 802
+"Oklahoma" "US" 1660 23
+"Oklahoma" "US" 33004 388
+"Oklahoma" "US" 1437 28
+"Oklahoma" "US" 4759 53
+"Oklahoma" "US" 18141 333
+"Oklahoma" "US" 7893 166
+"Oklahoma" "US" 11053 201
+"Oklahoma" "US" 1063 31
+"Oklahoma" "US" 772 8
+"Oklahoma" "US" 15170 287
+"Oklahoma" "US" 7024 142
+"Oklahoma" "US" 13700 242
+"Oklahoma" "US" 1031 16
+"Oklahoma" "US" 1293 36
+"Oklahoma" "US" 520 12
+"Oklahoma" "US" 706 12
+"Oklahoma" "US" 2777 39
+"Oklahoma" "US" 2578 61
+"Oklahoma" "US" 6558 105
+"Oklahoma" "US" 1294 28
+"Oklahoma" "US" 3029 53
+"Oklahoma" "US" 12271 217
+"Oklahoma" "US" 4160 69
+"Oklahoma" "US" 1955 51
+"Oklahoma" "US" 2268 35
+"Oklahoma" "US" 12446 108
+"Oklahoma" "US" 7848 138
+"Oklahoma" "US" 10816 160
+"Oklahoma" "US" 3090 38
+"Oklahoma" "US" 2464 41
+"Oklahoma" "US" 4603 42
+"Oklahoma" "US" 10285 162
+"Oklahoma" "US" 11624 132
+"Oklahoma" "US" 8070 163
+"Oklahoma" "US" 4877 124
+"Oklahoma" "US" 4160 72
+"Oklahoma" "US" 19935 335
+"Oklahoma" "US" 3025 38
+"Oklahoma" "US" 2779 38
+"Oklahoma" "US" 3533 61
+"Oklahoma" "US" 198164 2406
+"Oklahoma" "US" 9664 185
+"Oklahoma" "US" 10913 167
+"Oklahoma" "US" 9123 124
+"Oklahoma" "US" 0 0
+"Oklahoma" "US" 4100 84
+"Oklahoma" "US" 18274 163
+"Oklahoma" "US" 10763 209
+"Oklahoma" "US" 12032 144
+"Oklahoma" "US" 20603 280
+"Oklahoma" "US" 2662 45
+"Oklahoma" "US" 871 16
+"Oklahoma" "US" 25386 381
+"Oklahoma" "US" 6118 133
+"Oklahoma" "US" 10618 104
+"Oklahoma" "US" 10963 202
+"Oklahoma" "US" 5990 54
+"Oklahoma" "US" 1525 34
+"Oklahoma" "US" 170536 2148
+"Oklahoma" "US" 1379 1554
+"Oklahoma" "US" 21684 270
+"Oklahoma" "US" 12669 256
+"Oklahoma" "US" 2627 53
+"Oklahoma" "US" 2353 38
+"Oklahoma" "US" 5160 74
+"Oregon" "US" 3210 48
+"Oregon" "US" 15268 69
+"Oregon" "US" 60312 614
+"Oregon" "US" 4611 49
+"Oregon" "US" 7593 93
+"Oregon" "US" 10688 152
+"Oregon" "US" 6044 79
+"Oregon" "US" 3351 54
+"Oregon" "US" 46048 281
+"Oregon" "US" 19754 385
+"Oregon" "US" 283 5
+"Oregon" "US" 1681 22
+"Oregon" "US" 1602 38
+"Oregon" "US" 3565 43
+"Oregon" "US" 42737 524
+"Oregon" "US" 7225 90
+"Oregon" "US" 16353 331
+"Oregon" "US" 14127 218
+"Oregon" "US" 1407 27
+"Oregon" "US" 57456 524
+"Oregon" "US" 7027 84
+"Oregon" "US" 26503 266
+"Oregon" "US" 8210 108
+"Oregon" "US" 68968 707
+"Oregon" "US" 2952 33
+"Oregon" "US" 114392 1186
+"Oregon" "US" 15284 130
+"Oregon" "US" 319 6
+"Oregon" "US" 3671 64
+"Oregon" "US" 22361 213
+"Oregon" "US" 0 0
+"Oregon" "US" 5021 76
+"Oregon" "US" 1251 16
+"Oregon" "US" 5134 60
+"Oregon" "US" 85575 584
+"Oregon" "US" 242 3
+"Oregon" "US" 17762 217
+"Pennsylvania" "US" 24774 360
+"Pennsylvania" "US" 264143 3295
+"Pennsylvania" "US" 15265 341
+"Pennsylvania" "US" 40163 738
+"Pennsylvania" "US" 10970 275
+"Pennsylvania" "US" 102326 1591
+"Pennsylvania" "US" 29665 611
+"Pennsylvania" "US" 15239 200
+"Pennsylvania" "US" 123401 1882
+"Pennsylvania" "US" 44473 732
+"Pennsylvania" "US" 34574 723
+"Pennsylvania" "US" 815 20
+"Pennsylvania" "US" 15897 293
+"Pennsylvania" "US" 35245 348
+"Pennsylvania" "US" 92032 1144
+"Pennsylvania" "US" 8232 202
+"Pennsylvania" "US" 19287 345
+"Pennsylvania" "US" 9036 124
+"Pennsylvania" "US" 15110 243
+"Pennsylvania" "US" 19776 315
+"Pennsylvania" "US" 50953 891
+"Pennsylvania" "US" 59078 960
+"Pennsylvania" "US" 110242 1868
+"Pennsylvania" "US" 7131 100
+"Pennsylvania" "US" 57138 755
+"Pennsylvania" "US" 31037 667
+"Pennsylvania" "US" 2240 35
+"Pennsylvania" "US" 40325 692
+"Pennsylvania" "US" 4122 65
+"Pennsylvania" "US" 8456 104
+"Pennsylvania" "US" 11507 244
+"Pennsylvania" "US" 17415 354
+"Pennsylvania" "US" 9007 231
+"Pennsylvania" "US" 4766 175
+"Pennsylvania" "US" 43548 764
+"Pennsylvania" "US" 121018 1880
+"Pennsylvania" "US" 18945 413
+"Pennsylvania" "US" 36566 514
+"Pennsylvania" "US" 89551 1235
+"Pennsylvania" "US" 73536 1346
+"Pennsylvania" "US" 28446 513
+"Pennsylvania" "US" 8196 138
+"Pennsylvania" "US" 23328 496
+"Pennsylvania" "US" 12279 276
+"Pennsylvania" "US" 37024 518
+"Pennsylvania" "US" 152897 2310
+"Pennsylvania" "US" 4523 93
+"Pennsylvania" "US" 79660 1086
+"Pennsylvania" "US" 22829 530
+"Pennsylvania" "US" 8829 184
+"Pennsylvania" "US" 309642 5080
+"Pennsylvania" "US" 10213 95
+"Pennsylvania" "US" 3194 92
+"Pennsylvania" "US" 34435 674
+"Pennsylvania" "US" 8102 156
+"Pennsylvania" "US" 18712 405
+"Pennsylvania" "US" 1050 36
+"Pennsylvania" "US" 7837 108
+"Pennsylvania" "US" 8027 192
+"Pennsylvania" "US" 0 0
+"Pennsylvania" "US" 11691 153
+"Pennsylvania" "US" 11243 238
+"Pennsylvania" "US" 7338 210
+"Pennsylvania" "US" 50872 651
+"Pennsylvania" "US" 10151 169
+"Pennsylvania" "US" 79759 1369
+"Pennsylvania" "US" 5081 104
+"Pennsylvania" "US" 118656 1491
+"Puerto Rico" "US" 2151 0
+"Puerto Rico" "US" 6001 0
+"Puerto Rico" "US" 6757 0
+"Puerto Rico" "US" 3780 0
+"Puerto Rico" "US" 3428 0
+"Puerto Rico" "US" 3368 0
+"Puerto Rico" "US" 11979 0
+"Puerto Rico" "US" 1700 0
+"Puerto Rico" "US" 3095 0
+"Puerto Rico" "US" 4313 0
+"Puerto Rico" "US" 31428 0
+"Puerto Rico" "US" 4733 0
+"Puerto Rico" "US" 20294 0
+"Puerto Rico" "US" 4622 0
+"Puerto Rico" "US" 5997 0
+"Puerto Rico" "US" 26104 0
+"Puerto Rico" "US" 3820 0
+"Puerto Rico" "US" 5448 0
+"Puerto Rico" "US" 1242 0
+"Puerto Rico" "US" 2377 0
+"Puerto Rico" "US" 5365 0
+"Puerto Rico" "US" 4233 0
+"Puerto Rico" "US" 2637 0
+"Puerto Rico" "US" 5639 0
+"Puerto Rico" "US" 159 0
+"Puerto Rico" "US" 6075 0
+"Puerto Rico" "US" 4081 0
+"Puerto Rico" "US" 2153 0
+"Puerto Rico" "US" 1352 0
+"Puerto Rico" "US" 4387 0
+"Puerto Rico" "US" 1885 0
+"Puerto Rico" "US" 14377 0
+"Puerto Rico" "US" 6868 0
+"Puerto Rico" "US" 4932 0
+"Puerto Rico" "US" 1763 0
+"Puerto Rico" "US" 7132 0
+"Puerto Rico" "US" 6314 0
+"Puerto Rico" "US" 1889 0
+"Puerto Rico" "US" 5600 0
+"Puerto Rico" "US" 5855 0
+"Puerto Rico" "US" 2312 0
+"Puerto Rico" "US" 3380 0
+"Puerto Rico" "US" 1021 0
+"Puerto Rico" "US" 4943 0
+"Puerto Rico" "US" 3043 0
+"Puerto Rico" "US" 2312 0
+"Puerto Rico" "US" 5506 0
+"Puerto Rico" "US" 509 0
+"Puerto Rico" "US" 1264 0
+"Puerto Rico" "US" 9129 0
+"Puerto Rico" "US" 5622 0
+"Puerto Rico" "US" 4482 0
+"Puerto Rico" "US" 3169 0
+"Puerto Rico" "US" 4529 0
+"Puerto Rico" "US" 2696 0
+"Puerto Rico" "US" 434 0
+"Puerto Rico" "US" 1861 0
+"Puerto Rico" "US" 2149 0
+"Puerto Rico" "US" 17005 0
+"Puerto Rico" "US" 3652 0
+"Puerto Rico" "US" 2042 0
+"Puerto Rico" "US" 6983 0
+"Puerto Rico" "US" 2120 0
+"Puerto Rico" "US" 3022 0
+"Puerto Rico" "US" 3300 0
+"Puerto Rico" "US" 55999 0
+"Puerto Rico" "US" 5049 0
+"Puerto Rico" "US" 5516 0
+"Puerto Rico" "US" 2342 0
+"Puerto Rico" "US" 11029 0
+"Puerto Rico" "US" 11741 0
+"Puerto Rico" "US" 9193 0
+"Puerto Rico" "US" 15753 4177
+"Puerto Rico" "US" 3156 0
+"Puerto Rico" "US" 5616 0
+"Puerto Rico" "US" 9761 0
+"Puerto Rico" "US" 630 0
+"Puerto Rico" "US" 2853 0
+"Puerto Rico" "US" 4047 0
+"Puerto Rico" "US" 3840 0
+"Recovered" "US" 0 0
+"Rhode Island" "US" 13538 169
+"Rhode Island" "US" 48495 512
+"Rhode Island" "US" 19986 88
+"Rhode Island" "US" 221007 2522
+"Rhode Island" "US" 29242 12
+"Rhode Island" "US" 32380 224
+"South Carolina" "US" 6642 69
+"South Carolina" "US" 41465 437
+"South Carolina" "US" 2080 24
+"South Carolina" "US" 57741 986
+"South Carolina" "US" 3425 75
+"South Carolina" "US" 5812 102
+"South Carolina" "US" 43056 376
+"South Carolina" "US" 51760 445
+"South Carolina" "US" 2784 61
+"South Carolina" "US" 111853 938
+"South Carolina" "US" 14680 318
+"South Carolina" "US" 10089 151
+"South Carolina" "US" 11800 188
+"South Carolina" "US" 8720 157
+"South Carolina" "US" 8849 220
+"South Carolina" "US" 18885 309
+"South Carolina" "US" 9698 143
+"South Carolina" "US" 55906 491
+"South Carolina" "US" 6755 69
+"South Carolina" "US" 5970 107
+"South Carolina" "US" 41718 624
+"South Carolina" "US" 15839 224
+"South Carolina" "US" 172282 1984
+"South Carolina" "US" 22541 304
+"South Carolina" "US" 5009 85
+"South Carolina" "US" 96403 1153
+"South Carolina" "US" 5889 93
+"South Carolina" "US" 21437 254
+"South Carolina" "US" 25060 280
+"South Carolina" "US" 18609 294
+"South Carolina" "US" 4251 94
+"South Carolina" "US" 95691 865
+"South Carolina" "US" 8539 161
+"South Carolina" "US" 7853 105
+"South Carolina" "US" 2226 39
+"South Carolina" "US" 13270 191
+"South Carolina" "US" 24170 338
+"South Carolina" "US" 23293 415
+"South Carolina" "US" 45840 624
+"South Carolina" "US" 122265 937
+"South Carolina" "US" 3955 76
+"South Carolina" "US" 94883 1538
+"South Carolina" "US" 27811 390
+"South Carolina" "US" 0 0
+"South Carolina" "US" 7726 148
+"South Carolina" "US" 8526 146
+"South Carolina" "US" 77541 670
+"South Dakota" "US" 768 17
+"South Dakota" "US" 4585 59
+"South Dakota" "US" 788 14
+"South Dakota" "US" 2291 38
+"South Dakota" "US" 8096 52
+"South Dakota" "US" 10289 121
+"South Dakota" "US" 1411 20
+"South Dakota" "US" 619 18
+"South Dakota" "US" 2750 44
+"South Dakota" "US" 266 7
+"South Dakota" "US" 2927 35
+"South Dakota" "US" 797 9
+"South Dakota" "US" 3489 21
+"South Dakota" "US" 8408 99
+"South Dakota" "US" 1067 17
+"South Dakota" "US" 2027 25
+"South Dakota" "US" 5880 77
+"South Dakota" "US" 1275 35
+"South Dakota" "US" 1035 12
+"South Dakota" "US" 3137 42
+"South Dakota" "US" 681 16
+"South Dakota" "US" 939 16
+"South Dakota" "US" 1804 39
+"South Dakota" "US" 565 16
+"South Dakota" "US" 2039 50
+"South Dakota" "US" 1064 34
+"South Dakota" "US" 451 12
+"South Dakota" "US" 1500 41
+"South Dakota" "US" 561 12
+"South Dakota" "US" 655 6
+"South Dakota" "US" 201 3
+"South Dakota" "US" 4313 58
+"South Dakota" "US" 1730 36
+"South Dakota" "US" 306 8
+"South Dakota" "US" 629 21
+"South Dakota" "US" 415 20
+"South Dakota" "US" 177 2
+"South Dakota" "US" 1312 21
+"South Dakota" "US" 2326 28
+"South Dakota" "US" 6565 83
+"South Dakota" "US" 15484 102
+"South Dakota" "US" 1203 12
+"South Dakota" "US" 784 13
+"South Dakota" "US" 1340 31
+"South Dakota" "US" 425 9
+"South Dakota" "US" 7004 62
+"South Dakota" "US" 527 8
+"South Dakota" "US" 456 13
+"South Dakota" "US" 57034 513
+"South Dakota" "US" 1376 28
+"South Dakota" "US" 3923 62
+"South Dakota" "US" 32674 341
+"South Dakota" "US" 682 18
+"South Dakota" "US" 704 7
+"South Dakota" "US" 2427 53
+"South Dakota" "US" 573 6
+"South Dakota" "US" 1414 35
+"South Dakota" "US" 635 7
+"South Dakota" "US" 245 3
+"South Dakota" "US" 2972 52
+"South Dakota" "US" 1379 24
+"South Dakota" "US" 1964 62
+"South Dakota" "US" 0 0
+"South Dakota" "US" 4006 52
+"South Dakota" "US" 1312 26
+"South Dakota" "US" 5902 59
+"South Dakota" "US" 663 11
+"Tennessee" "US" 22072 328
+"Tennessee" "US" 14948 232
+"Tennessee" "US" 4493 91
+"Tennessee" "US" 4658 56
+"Tennessee" "US" 39079 420
+"Tennessee" "US" 33104 407
+"Tennessee" "US" 12224 162
+"Tennessee" "US" 4195 60
+"Tennessee" "US" 8948 156
+"Tennessee" "US" 16458 332
+"Tennessee" "US" 10902 118
+"Tennessee" "US" 5840 95
+"Tennessee" "US" 9094 176
+"Tennessee" "US" 2287 50
+"Tennessee" "US" 11565 210
+"Tennessee" "US" 16943 262
+"Tennessee" "US" 5177 84
+"Tennessee" "US" 16097 322
+"Tennessee" "US" 191390 1642
+"Tennessee" "US" 6278 100
+"Tennessee" "US" 3731 67
+"Tennessee" "US" 15870 242
+"Tennessee" "US" 12786 199
+"Tennessee" "US" 11409 181
+"Tennessee" "US" 5696 127
+"Tennessee" "US" 12849 178
+"Tennessee" "US" 17380 256
+"Tennessee" "US" 9401 189
+"Tennessee" "US" 6777 108
+"Tennessee" "US" 22053 366
+"Tennessee" "US" 3985 71
+"Tennessee" "US" 19697 349
+"Tennessee" "US" 99820 1125
+"Tennessee" "US" 2007 35
+"Tennessee" "US" 7589 116
+"Tennessee" "US" 8750 143
+"Tennessee" "US" 16636 312
+"Tennessee" "US" 6161 99
+"Tennessee" "US" 9115 155
+"Tennessee" "US" 8263 157
+"Tennessee" "US" 6823 109
+"Tennessee" "US" 2675 60
+"Tennessee" "US" 4839 72
+"Tennessee" "US" 3204 63
+"Tennessee" "US" 15713 260
+"Tennessee" "US" 5164 89
+"Tennessee" "US" 127398 1354
+"Tennessee" "US" 2740 42
+"Tennessee" "US" 7737 102
+"Tennessee" "US" 14264 195
+"Tennessee" "US" 3570 58
+"Tennessee" "US" 9976 166
+"Tennessee" "US" 14472 192
+"Tennessee" "US" 8439 145
+"Tennessee" "US" 29908 421
+"Tennessee" "US" 8850 128
+"Tennessee" "US" 10359 120
+"Tennessee" "US" 28980 334
+"Tennessee" "US" 16673 254
+"Tennessee" "US" 7641 119
+"Tennessee" "US" 3384 55
+"Tennessee" "US" 14509 236
+"Tennessee" "US" 50167 566
+"Tennessee" "US" 2238 39
+"Tennessee" "US" 6178 82
+"Tennessee" "US" 10764 189
+"Tennessee" "US" 48348 264
+"Tennessee" "US" 7136 121
+"Tennessee" "US" 2328 55
+"Tennessee" "US" 1768 36
+"Tennessee" "US" 4729 71
+"Tennessee" "US" 25082 302
+"Tennessee" "US" 9970 154
+"Tennessee" "US" 15780 231
+"Tennessee" "US" 21521 296
+"Tennessee" "US" 95639 887
+"Tennessee" "US" 9034 116
+"Tennessee" "US" 4211 66
+"Tennessee" "US" 30275 407
+"Tennessee" "US" 235399 3254
+"Tennessee" "US" 6160 83
+"Tennessee" "US" 3284 57
+"Tennessee" "US" 45769 709
+"Tennessee" "US" 53118 718
+"Tennessee" "US" 17601 232
+"Tennessee" "US" 4217 45
+"Tennessee" "US" 38527 607
+"Tennessee" "US" 5164 94
+"Tennessee" "US" 5394 73
+"Tennessee" "US" 1847 48
+"Tennessee" "US" 12990 175
+"Tennessee" "US" 38534 487
+"Tennessee" "US" 5696 64
+"Tennessee" "US" 9501 144
+"Tennessee" "US" 8223 128
+"Tennessee" "US" 61958 399
+"Tennessee" "US" 41623 479
+"Texas" "US" 9534 236
+"Texas" "US" 3793 71
+"Texas" "US" 15403 480
+"Texas" "US" 4100 84
+"Texas" "US" 2154 28
+"Texas" "US" 525 9
+"Texas" "US" 13552 231
+"Texas" "US" 5734 73
+"Texas" "US" 1475 39
+"Texas" "US" 3602 76
+"Texas" "US" 21749 236
+"Texas" "US" 811 32
+"Texas" "US" 8302 153
+"Texas" "US" 66913 895
+"Texas" "US" 557444 6105
+"Texas" "US" 2535 34
+"Texas" "US" 98 2
+"Texas" "US" 4066 70
+"Texas" "US" 20101 431
+"Texas" "US" 93447 981
+"Texas" "US" 60326 408
+"Texas" "US" 1065 29
+"Texas" "US" 462 8
+"Texas" "US" 1615 52
+"Texas" "US" 11714 229
+"Texas" "US" 5007 66
+"Texas" "US" 10954 168
+"Texas" "US" 14199 175
+"Texas" "US" 5704 48
+"Texas" "US" 2855 72
+"Texas" "US" 102472 2021
+"Texas" "US" 2856 74
+"Texas" "US" 1527 34
+"Texas" "US" 7214 196
+"Texas" "US" 2290 47
+"Texas" "US" 10314 69
+"Texas" "US" 7965 253
+"Texas" "US" 2633 31
+"Texas" "US" 2074 36
+"Texas" "US" 885 23
+"Texas" "US" 838 20
+"Texas" "US" 1630 71
+"Texas" "US" 211919 1504
+"Texas" "US" 701 16
+"Texas" "US" 3796 63
+"Texas" "US" 33974 546
+"Texas" "US" 3579 78
+"Texas" "US" 1079 11
+"Texas" "US" 7311 132
+"Texas" "US" 17522 210
+"Texas" "US" 310 9
+"Texas" "US" 1275 24
+"Texas" "US" 1041 19
+"Texas" "US" 1881 45
+"Texas" "US" 512 14
+"Texas" "US" 2153 40
+"Texas" "US" 583614 6732
+"Texas" "US" 2896 94
+"Texas" "US" 6460 98
+"Texas" "US" 4804 112
+"Texas" "US" 1812 25
+"Texas" "US" 179240 1346
+"Texas" "US" 450 16
+"Texas" "US" 5749 51
+"Texas" "US" 1146 26
+"Texas" "US" 3364 69
+"Texas" "US" 2816 113
+"Texas" "US" 37440 700
+"Texas" "US" 465 11
+"Texas" "US" 207499 3719
+"Texas" "US" 48782 580
+"Texas" "US" 8680 123
+"Texas" "US" 3766 64
+"Texas" "US" 6855 183
+"Texas" "US" 4769 105
+"Texas" "US" 607 24
+"Texas" "US" 1950 48
+"Texas" "US" 203 11
+"Texas" "US" 183118 1214
+"Texas" "US" 2196 42
+"Texas" "US" 3864 82
+"Texas" "US" 5839 93
+"Texas" "US" 2206 83
+"Texas" "US" 95680 849
+"Texas" "US" 1270 28
+"Texas" "US" 5375 109
+"Texas" "US" 199 3
+"Texas" "US" 1200 32
+"Texas" "US" 4721 98
+"Texas" "US" 6179 124
+"Texas" "US" 27099 633
+"Texas" "US" 23174 682
+"Texas" "US" 8470 119
+"Texas" "US" 38079 398
+"Texas" "US" 6558 245
+"Texas" "US" 1094 23
+"Texas" "US" 1960 33
+"Texas" "US" 1921 29
+"Texas" "US" 555 19
+"Texas" "US" 12024 250
+"Texas" "US" 1019584 10905
+"Texas" "US" 13286 226
+"Texas" "US" 1355 3
+"Texas" "US" 895 39
+"Texas" "US" 60127 497
+"Texas" "US" 1235 7
+"Texas" "US" 15381 424
+"Texas" "US" 203945 3893
+"Texas" "US" 8920 192
+"Texas" "US" 7705 161
+"Texas" "US" 13386 273
+"Texas" "US" 7209 178
+"Texas" "US" 4171 110
+"Texas" "US" 6798 184
+"Texas" "US" 989 18
+"Texas" "US" 15754 362
+"Texas" "US" 6730 134
+"Texas" "US" 442 3
+"Texas" "US" 1508 28
+"Texas" "US" 3253 59
+"Texas" "US" 6078 187
+"Texas" "US" 223 9
+"Texas" "US" 46959 834
+"Texas" "US" 2616 22
+"Texas" "US" 11252 207
+"Texas" "US" 43263 733
+"Texas" "US" 4587 92
+"Texas" "US" 5750 70
+"Texas" "US" 35379 536
+"Texas" "US" 8177 118
+"Texas" "US" 83 2
+"Texas" "US" 208 4
+"Texas" "US" 9647 182
+"Texas" "US" 688 15
+"Texas" "US" 51 0
+"Texas" "US" 740 10
+"Texas" "US" 7203 147
+"Texas" "US" 491 25
+"Texas" "US" 2348 48
+"Texas" "US" 9582 256
+"Texas" "US" 4338 122
+"Texas" "US" 5524 90
+"Texas" "US" 4244 119
+"Texas" "US" 4245 60
+"Texas" "US" 3718 93
+"Texas" "US" 18100 403
+"Texas" "US" 5080 124
+"Texas" "US" 720 15
+"Texas" "US" 2141 42
+"Texas" "US" 3900 97
+"Texas" "US" 185 1
+"Texas" "US" 93501 1320
+"Texas" "US" 1548 38
+"Texas" "US" 3717 54
+"Texas" "US" 1682 59
+"Texas" "US" 1199 26
+"Texas" "US" 782 12
+"Texas" "US" 8333 175
+"Texas" "US" 20810 463
+"Texas" "US" 1301 47
+"Texas" "US" 58191 899
+"Texas" "US" 168 9
+"Texas" "US" 10213 197
+"Texas" "US" 512 12
+"Texas" "US" 40430 495
+"Texas" "US" 4923 101
+"Texas" "US" 1475 36
+"Texas" "US" 1863 48
+"Texas" "US" 4661 127
+"Texas" "US" 139345 1287
+"Texas" "US" 5587 111
+"Texas" "US" 2512 72
+"Texas" "US" 286 13
+"Texas" "US" 12281 258
+"Texas" "US" 12426 219
+"Texas" "US" 1365 61
+"Texas" "US" 3061 99
+"Texas" "US" 99636 1491
+"Texas" "US" 2420 48
+"Texas" "US" 563 6
+"Texas" "US" 14927 354
+"Texas" "US" 7027 154
+"Texas" "US" 4585 129
+"Texas" "US" 34399 448
+"Texas" "US" 2362 52
+"Texas" "US" 2738 71
+"Texas" "US" 7826 247
+"Texas" "US" 35686 716
+"Texas" "US" 977 37
+"Texas" "US" 1834 59
+"Texas" "US" 27270 489
+"Texas" "US" 856 14
+"Texas" "US" 810 25
+"Texas" "US" 2294 66
+"Texas" "US" 4617 74
+"Texas" "US" 1765 36
+"Texas" "US" 175 2
+"Texas" "US" 4529 77
+"Texas" "US" 26555 265
+"Texas" "US" 2296 66
+"Texas" "US" 10790 232
+"Texas" "US" 1242 88
+"Texas" "US" 1065 44
+"Texas" "US" 5538 100
+"Texas" "US" 11048 339
+"Texas" "US" 1238 35
+"Texas" "US" 525 9
+"Texas" "US" 4968 103
+"Texas" "US" 676 12
+"Texas" "US" 4461 134
+"Texas" "US" 498 16
+"Texas" "US" 45418 964
+"Texas" "US" 2110 36
+"Texas" "US" 19856 364
+"Texas" "US" 1836 45
+"Texas" "US" 245 6
+"Texas" "US" 356 7
+"Texas" "US" 847 12
+"Texas" "US" 2275 34
+"Texas" "US" 565870 5900
+"Texas" "US" 30837 719
+"Texas" "US" 121 3
+"Texas" "US" 2786 84
+"Texas" "US" 269 8
+"Texas" "US" 8590 128
+"Texas" "US" 30641 462
+"Texas" "US" 240690 1723
+"Texas" "US" 2549 72
+"Texas" "US" 3387 86
+"Texas" "US" 75193 26
+"Texas" "US" 7809 182
+"Texas" "US" 830 18
+"Texas" "US" 10575 143
+"Texas" "US" 14314 299
+"Texas" "US" 10362 280
+"Texas" "US" 18623 411
+"Texas" "US" 18438 212
+"Texas" "US" 9585 107
+"Texas" "US" 2822 43
+"Texas" "US" 9204 147
+"Texas" "US" 93263 1032
+"Texas" "US" 9113 212
+"Texas" "US" 1181 23
+"Texas" "US" 30876 674
+"Texas" "US" 3455 87
+"Texas" "US" 6973 130
+"Texas" "US" 133266 893
+"Texas" "US" 10956 157
+"Texas" "US" 1842 34
+"Texas" "US" 16941 271
+"Texas" "US" 8002 288
+"Texas" "US" 1311 41
+"Texas" "US" 3913 93
+"Texas" "US" 3676 55
+"Texas" "US" 4044 68
+"Utah" "US" 51521 246
+"Utah" "US" 20691 167
+"Utah" "US" 100093 402
+"Utah" "US" 341630 1625
+"Utah" "US" 3979 48
+"Utah" "US" 10043 81
+"Utah" "US" 63452 648
+"Utah" "US" 13506 25
+"Utah" "US" 21379 102
+"Utah" "US" 12718 106
+"Utah" "US" 3560 7
+"Utah" "US" 201585 788
+"Utah" "US" 10707 35
+"Utah" "US" 73757 450
+"Vermont" "US" 5601 15
+"Vermont" "US" 9488 69
+"Vermont" "US" 5699 24
+"Vermont" "US" 31657 167
+"Vermont" "US" 1285 3
+"Vermont" "US" 9645 66
+"Vermont" "US" 1043 5
+"Vermont" "US" 3878 17
+"Vermont" "US" 4884 14
+"Vermont" "US" 6287 37
+"Vermont" "US" 12589 73
+"Vermont" "US" 1063 1
+"Vermont" "US" 10049 47
+"Vermont" "US" 6691 35
+"Vermont" "US" 8824 50
+"Virgin Islands" "US" 15801 111
+"Virginia" "US" 6943 105
+"Virginia" "US" 17503 154
+"Virginia" "US" 30610 185
+"Virginia" "US" 3389 95
+"Virginia" "US" 2629 60
+"Virginia" "US" 7205 88
+"Virginia" "US" 3776 52
+"Virginia" "US" 42262 322
+"Virginia" "US" 18981 213
+"Virginia" "US" 894 20
+"Virginia" "US" 16933 235
+"Virginia" "US" 1766 21
+"Virginia" "US" 7463 97
+"Virginia" "US" 4389 79
+"Virginia" "US" 3221 47
+"Virginia" "US" 4878 115
+"Virginia" "US" 3919 57
+"Virginia" "US" 2001 43
+"Virginia" "US" 12105 211
+"Virginia" "US" 6823 80
+"Virginia" "US" 6662 145
+"Virginia" "US" 1155 27
+"Virginia" "US" 2488 45
+"Virginia" "US" 9062 78
+"Virginia" "US" 49983 487
+"Virginia" "US" 72860 753
+"Virginia" "US" 2614 42
+"Virginia" "US" 4844 96
+"Virginia" "US" 1253 26
+"Virginia" "US" 1119 18
+"Virginia" "US" 11392 149
+"Virginia" "US" 1317 26
+"Virginia" "US" 11050 278
+"Virginia" "US" 3312 47
+"Virginia" "US" 5318 88
+"Virginia" "US" 1160 54
+"Virginia" "US" 2257 32
+"Virginia" "US" 177581 1439
+"Virginia" "US" 1980 42
+"Virginia" "US" 2030 16
+"Virginia" "US" 13034 141
+"Virginia" "US" 2552 47
+"Virginia" "US" 5101 43
+"Virginia" "US" 10777 193
+"Virginia" "US" 2466 53
+"Virginia" "US" 20551 244
+"Virginia" "US" 5293 41
+"Virginia" "US" 2554 77
+"Virginia" "US" 4053 48
+"Virginia" "US" 7315 102
+"Virginia" "US" 3989 51
+"Virginia" "US" 4041 80
+"Virginia" "US" 3968 60
+"Virginia" "US" 3324 39
+"Virginia" "US" 7041 155
+"Virginia" "US" 27651 326
+"Virginia" "US" 21727 280
+"Virginia" "US" 13257 157
+"Virginia" "US" 64812 919
+"Virginia" "US" 11761 261
+"Virginia" "US" 365 7
+"Virginia" "US" 6102 119
+"Virginia" "US" 7280 113
+"Virginia" "US" 14866 119
+"Virginia" "US" 5008 38
+"Virginia" "US" 3688 39
+"Virginia" "US" 1123 12
+"Virginia" "US" 1799 31
+"Virginia" "US" 6210 92
+"Virginia" "US" 2828 40
+"Virginia" "US" 68406 376
+"Virginia" "US" 6638 82
+"Virginia" "US" 2397 36
+"Virginia" "US" 20075 265
+"Virginia" "US" 2347 39
+"Virginia" "US" 9122 70
+"Virginia" "US" 3722 26
+"Virginia" "US" 3341 117
+"Virginia" "US" 1434 28
+"Virginia" "US" 6078 117
+"Virginia" "US" 1826 46
+"Virginia" "US" 18644 149
+"Virginia" "US" 2554 34
+"Virginia" "US" 4624 32
+"Virginia" "US" 36240 393
+"Virginia" "US" 42224 470
+"Virginia" "US" 2148 63
+"Virginia" "US" 2166 46
+"Virginia" "US" 1304 22
+"Virginia" "US" 4195 88
+"Virginia" "US" 6803 84
+"Virginia" "US" 5594 120
+"Virginia" "US" 3628 93
+"Virginia" "US" 8293 137
+"Virginia" "US" 14020 195
+"Virginia" "US" 2344 30
+"Virginia" "US" 20854 324
+"Virginia" "US" 5108 58
+"Virginia" "US" 4991 69
+"Virginia" "US" 8528 76
+"Virginia" "US" 95209 735
+"Virginia" "US" 7229 135
+"Virginia" "US" 4912 50
+"Virginia" "US" 1000 10
+"Virginia" "US" 2549 25
+"Virginia" "US" 44763 499
+"Virginia" "US" 21078 279
+"Virginia" "US" 21236 366
+"Virginia" "US" 3266 77
+"Virginia" "US" 14450 224
+"Virginia" "US" 6826 111
+"Virginia" "US" 5646 96
+"Virginia" "US" 5723 110
+"Virginia" "US" 10797 221
+"Virginia" "US" 8757 171
+"Virginia" "US" 3341 89
+"Virginia" "US" 26881 295
+"Virginia" "US" 30316 174
+"Virginia" "US" 5661 110
+"Virginia" "US" 18705 298
+"Virginia" "US" 1091 19
+"Virginia" "US" 2422 41
+"Virginia" "US" 10205 168
+"Virginia" "US" 0 0
+"Virginia" "US" 89562 812
+"Virginia" "US" 8551 153
+"Virginia" "US" 13727 214
+"Virginia" "US" 5325 60
+"Virginia" "US" 3254 51
+"Virginia" "US" 1758 22
+"Virginia" "US" 6319 78
+"Virginia" "US" 10248 195
+"Virginia" "US" 7485 146
+"Virginia" "US" 9815 105
+"Washington" "US" 4915 38
+"Washington" "US" 4526 65
+"Washington" "US" 52408 467
+"Washington" "US" 20090 161
+"Washington" "US" 11330 139
+"Washington" "US" 88485 794
+"Washington" "US" 608 16
+"Washington" "US" 22861 343
+"Washington" "US" 11058 69
+"Washington" "US" 1407 29
+"Washington" "US" 32472 211
+"Washington" "US" 386 7
+"Washington" "US" 25654 216
+"Washington" "US" 16172 195
+"Washington" "US" 10021 75
+"Washington" "US" 2959 28
+"Washington" "US" 380075 2691
+"Washington" "US" 39373 334
+"Washington" "US" 8374 62
+"Washington" "US" 3499 45
+"Washington" "US" 17509 247
+"Washington" "US" 2206 27
+"Washington" "US" 12310 140
+"Washington" "US" 8520 122
+"Washington" "US" 3459 57
+"Washington" "US" 2494 36
+"Washington" "US" 192507 1385
+"Washington" "US" 1210 2
+"Washington" "US" 22054 203
+"Washington" "US" 1502 13
+"Washington" "US" 151259 1123
+"Washington" "US" 123905 1359
+"Washington" "US" 8110 143
+"Washington" "US" 46826 413
+"Washington" "US" 3266 7
+"Washington" "US" 530 6
+"Washington" "US" 15140 140
+"Washington" "US" 37429 292
+"Washington" "US" 8690 90
+"Washington" "US" 71460 776
+"West Virginia" "US" 4787 73
+"West Virginia" "US" 35696 286
+"West Virginia" "US" 6564 75
+"West Virginia" "US" 3898 42
+"West Virginia" "US" 5011 104
+"West Virginia" "US" 27426 369
+"West Virginia" "US" 1832 13
+"West Virginia" "US" 2340 40
+"West Virginia" "US" 2149 18
+"West Virginia" "US" 13051 198
+"West Virginia" "US" 2092 19
+"West Virginia" "US" 3766 56
+"West Virginia" "US" 9503 157
+"West Virginia" "US" 5829 71
+"West Virginia" "US" 6697 142
+"West Virginia" "US" 4177 49
+"West Virginia" "US" 19824 248
+"West Virginia" "US" 6877 131
+"West Virginia" "US" 14215 130
+"West Virginia" "US" 47119 708
+"West Virginia" "US" 5318 85
+"West Virginia" "US" 5522 80
+"West Virginia" "US" 9578 182
+"West Virginia" "US" 14982 178
+"West Virginia" "US" 8943 153
+"West Virginia" "US" 6642 92
+"West Virginia" "US" 5607 73
+"West Virginia" "US" 16989 264
+"West Virginia" "US" 7851 156
+"West Virginia" "US" 7936 122
+"West Virginia" "US" 24635 196
+"West Virginia" "US" 4172 46
+"West Virginia" "US" 4247 69
+"West Virginia" "US" 7301 96
+"West Virginia" "US" 11048 166
+"West Virginia" "US" 1961 21
+"West Virginia" "US" 2066 36
+"West Virginia" "US" 2013 28
+"West Virginia" "US" 9263 133
+"West Virginia" "US" 16653 174
+"West Virginia" "US" 22695 340
+"West Virginia" "US" 9398 85
+"West Virginia" "US" 2443 31
+"West Virginia" "US" 3157 36
+"West Virginia" "US" 2805 52
+"West Virginia" "US" 4515 73
+"West Virginia" "US" 1993 37
+"West Virginia" "US" 2200 30
+"West Virginia" "US" 0 0
+"West Virginia" "US" 6816 95
+"West Virginia" "US" 9814 121
+"West Virginia" "US" 2259 33
+"West Virginia" "US" 4332 84
+"West Virginia" "US" 1446 24
+"West Virginia" "US" 22177 342
+"West Virginia" "US" 6988 112
+"Wisconsin" "US" 4637 61
+"Wisconsin" "US" 3282 36
+"Wisconsin" "US" 13474 143
+"Wisconsin" "US" 3291 40
+"Wisconsin" "US" 84093 548
+"Wisconsin" "US" 3507 12
+"Wisconsin" "US" 3974 43
+"Wisconsin" "US" 14506 121
+"Wisconsin" "US" 18661 182
+"Wisconsin" "US" 7605 121
+"Wisconsin" "US" 15249 127
+"Wisconsin" "US" 4234 28
+"Wisconsin" "US" 125755 507
+"Wisconsin" "US" 27202 338
+"Wisconsin" "US" 6960 71
+"Wisconsin" "US" 11591 77
+"Wisconsin" "US" 13299 75
+"Wisconsin" "US" 30210 185
+"Wisconsin" "US" 1082 16
+"Wisconsin" "US" 31792 273
+"Wisconsin" "US" 2672 52
+"Wisconsin" "US" 12663 145
+"Wisconsin" "US" 9196 53
+"Wisconsin" "US" 5102 63
+"Wisconsin" "US" 5254 28
+"Wisconsin" "US" 1468 47
+"Wisconsin" "US" 5654 43
+"Wisconsin" "US" 21502 240
+"Wisconsin" "US" 7687 68
+"Wisconsin" "US" 44194 624
+"Wisconsin" "US" 5836 59
+"Wisconsin" "US" 34794 181
+"Wisconsin" "US" 3640 24
+"Wisconsin" "US" 5201 89
+"Wisconsin" "US" 7014 148
+"Wisconsin" "US" 20421 187
+"Wisconsin" "US" 39222 488
+"Wisconsin" "US" 11594 123
+"Wisconsin" "US" 3806 61
+"Wisconsin" "US" 1901 14
+"Wisconsin" "US" 269393 2282
+"Wisconsin" "US" 11991 89
+"Wisconsin" "US" 11391 119
+"Wisconsin" "US" 8488 137
+"Wisconsin" "US" 54343 404
+"Wisconsin" "US" 22243 184
+"Wisconsin" "US" 1967 18
+"Wisconsin" "US" 11547 73
+"Wisconsin" "US" 12328 122
+"Wisconsin" "US" 17984 159
+"Wisconsin" "US" 3249 33
+"Wisconsin" "US" 56373 688
+"Wisconsin" "US" 3857 48
+"Wisconsin" "US" 42979 391
+"Wisconsin" "US" 3415 54
+"Wisconsin" "US" 15879 132
+"Wisconsin" "US" 4550 62
+"Wisconsin" "US" 11652 150
+"Wisconsin" "US" 32490 315
+"Wisconsin" "US" 24714 147
+"Wisconsin" "US" 4827 72
+"Wisconsin" "US" 8393 63
+"Wisconsin" "US" 0 0
+"Wisconsin" "US" 6030 96
+"Wisconsin" "US" 5222 89
+"Wisconsin" "US" 26725 278
+"Wisconsin" "US" 3980 46
+"Wisconsin" "US" 38035 341
+"Wisconsin" "US" 112460 1091
+"Wisconsin" "US" 13628 251
+"Wisconsin" "US" 6389 87
+"Wisconsin" "US" 51631 380
+"Wisconsin" "US" 20928 230
+"Wyoming" "US" 9880 48
+"Wyoming" "US" 2579 60
+"Wyoming" "US" 12085 148
+"Wyoming" "US" 4619 52
+"Wyoming" "US" 3135 55
+"Wyoming" "US" 1346 28
+"Wyoming" "US" 13760 191
+"Wyoming" "US" 3633 57
+"Wyoming" "US" 1152 15
+"Wyoming" "US" 1845 19
+"Wyoming" "US" 26126 290
+"Wyoming" "US" 3968 31
+"Wyoming" "US" 22266 270
+"Wyoming" "US" 655 10
+"Wyoming" "US" 6754 143
+"Wyoming" "US" 1908 39
+"Wyoming" "US" 8049 78
+"Wyoming" "US" 1922 27
+"Wyoming" "US" 11063 124
+"Wyoming" "US" 9945 16
+"Wyoming" "US" 5624 39
+"Wyoming" "US" 0 0
+"Wyoming" "US" 2357 43
+"Wyoming" "US" 1587 18
+"Uganda" "Uganda" 164012 3596
+"Cherkasy Oblast" "Ukraine" 163768 2973
+"Chernihiv Oblast" "Ukraine" 126202 2751
+"Chernivtsi Oblast" "Ukraine" 150465 3290
+"Crimea Republic*" "Ukraine" 157596 4866
+"Dnipropetrovsk Oblast" "Ukraine" 303551 9454
+"Donetsk Oblast" "Ukraine" 216052 5607
+"Ivano-Frankivsk Oblast" "Ukraine" 181629 3476
+"Kharkiv Oblast" "Ukraine" 305661 6858
+"Kherson Oblast" "Ukraine" 107686 2881
+"Khmelnytskyi Oblast" "Ukraine" 201270 3703
+"Kiev" "Ukraine" 445098 8966
+"Kiev Oblast" "Ukraine" 226220 5019
+"Kirovohrad Oblast" "Ukraine" 45117 1741
+"Luhansk Oblast" "Ukraine" 80033 2392
+"Lviv Oblast" "Ukraine" 303357 6569
+"Mykolaiv Oblast" "Ukraine" 146174 3530
+"Odessa Oblast" "Ukraine" 325462 5917
+"Poltava Oblast" "Ukraine" 179994 4181
+"Rivne Oblast" "Ukraine" 171031 2530
+"Sevastopol*" "Ukraine" 73298 2088
+"Sumy Oblast" "Ukraine" 182268 3208
+"Ternopil Oblast" "Ukraine" 146363 2391
+"Vinnytsia Oblast" "Ukraine" 149845 3546
+"Volyn Oblast" "Ukraine" 132045 2394
+"Zakarpattia Oblast" "Ukraine" 112462 2724
+"Zaporizhia Oblast" "Ukraine" 215070 5866
+"Zhytomyr Oblast" "Ukraine" 192801 3538
+"United Arab Emirates" "United Arab Emirates" 894186 2302
+"Anguilla" "United Kingdom" 2731 9
+"Bermuda" "United Kingdom" 12763 130
+"British Virgin Islands" "United Kingdom" 6162 62
+"Cayman Islands" "United Kingdom" 21121 25
+"Channel Islands" "United Kingdom" 0 0
+"England" "United Kingdom" 18248680 148080
+"Falkland Islands (Malvinas)" "United Kingdom" 131 0
+"Gibraltar" "United Kingdom" 17236 101
+"Guernsey" "United Kingdom" 22257 36
+"Isle of Man" "United Kingdom" 30169 87
+"Jersey" "United Kingdom" 48162 121
+"Montserrat" "United Kingdom" 176 2
+"Northern Ireland" "United Kingdom" 698208 3369
+"Saint Helena, Ascension and Tristan da Cunha" "United Kingdom" 4 0
+"Scotland" "United Kingdom" 1863120 11706
+"Turks and Caicos Islands" "United Kingdom" 5923 36
+"Wales" "United Kingdom" 869272 7240
+"Uruguay" "Uruguay" 894630 7186
+"Uzbekistan" "Uzbekistan" 238098 1637
+"Vanuatu" "Vanuatu" 5536 6
+"Venezuela" "Venezuela" 521546 5696
+"Vietnam" "Vietnam" 10272964 42858
+"West Bank and Gaza" "West Bank and Gaza" 656617 5656
+"Winter Olympics 2022" "Winter Olympics 2022" 535 0
+"Yemen" "Yemen" 11814 2147
+"Zambia" "Zambia" 317804 3968
+"Zimbabwe" "Zimbabwe" 247094 5460
